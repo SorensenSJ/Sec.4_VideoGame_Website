@@ -84,7 +84,11 @@ main {
  font-size: 20px; 
 }
 
-.PCTable {
-  font-size: 15px;
+.PCTable th {
+  font-size: 25px;
 }
 
+
+.PCTable ul {
+ font-size: 20px 
+}
