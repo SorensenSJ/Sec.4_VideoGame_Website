@@ -24,10 +24,6 @@ div.NavigationalBar li {
  max-height: 50px;
 }
 
-.Screenshots {
- top: 20px;
-}
-
 
 
 div.NavigationalBar ul {
@@ -113,9 +109,6 @@ main {
  padding: 30px; 
 }
 
-
 .Screenshots img {
-  padding-top: 50px;
+    padding-top: 52px;
 }
-
-
