@@ -28,4 +28,12 @@ padding: 12px;
 
 .menu item {
 color: #FFF;
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333;
 }
+
+.menu item hover{
+  background-color: #111;
