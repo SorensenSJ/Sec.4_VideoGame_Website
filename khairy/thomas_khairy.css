@@ -15,8 +15,9 @@ color: #FFF;
 
 h1 {
 color: #FFF;
-  font-size: 70px;
+  font-size: 60px;
   text-align: center;
+  margin: 10px;
 }
 
 h3 {
@@ -34,7 +35,7 @@ padding: 12px;
   background-color: #333;
 }
 
-li {
+.menu-item li {
   float: left;
 }
 
