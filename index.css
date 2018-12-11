@@ -1,3 +1,13 @@
+body{
+  background-color: white;
+  font-family: Arial, sans-serif;
+}
+.menu ul{
+  margin: 0;
+  text-align: center;
+}
+.menu li{
+}
 h1 { 
 color : red;
 }
