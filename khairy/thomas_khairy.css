@@ -35,7 +35,7 @@ padding: 12px;
   background-color: #333;
 }
 
-li {
+.menu-item li {
   float: left;
 }
 
