@@ -1,1 +1,17 @@
 style css file
+h1{ color: #D3D3D3; 
+  font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serifDidot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", seriffancy; 
+  background: #FFFFFF url("https://pbs.twimg.com/media/DTVxppUWkAAs-Nq.jpg") no-repeat fixed center; 
+  max-width: 2000px; 
+  height: 750px; 
+  margin: 0; 
+  padding: 0; 
+  border: 0; 
+  line-height: 1400px; 
+  text-align: left; 
+  background-size: cover; 
+  font-size: 100px; }
+p{ font-size: 20px; } 
+p, li, h2{
+  <img class="irc_mi" src="https://wallpapercave.com/wp/wp2428710.jpg" alt="Related image" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" width="579" height="326" style="margin-top: 48px;">
+}
