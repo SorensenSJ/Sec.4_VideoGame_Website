@@ -5,6 +5,7 @@ font-family: 'Aclonica', sans-serif;
 body {
 background-image: url("https://i.redd.it/v6nri87mfx8y.png");
   background-repeat: repeat-y;
+  background-size: contain;
 }
 
 p {
@@ -60,4 +61,15 @@ li a:hover {
 #xbox {
 display: inline-block;
   background-color: #159900;
+}
+
+#logo {
+display: inline-block;
+width:50px;
+    height: auto;
+}
+
+#ranks {
+width:300px;
+    height: auto;
 }
