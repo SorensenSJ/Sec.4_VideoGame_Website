@@ -1,6 +1,9 @@
+* {
+  background-color: yellow;
+}
+
 p {
   font-family: Arial;
-  background-color: yellow;
 }
 
 h1 {
