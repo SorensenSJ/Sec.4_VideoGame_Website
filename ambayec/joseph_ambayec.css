@@ -12,7 +12,14 @@ li {
 
 div.TitleAuthor h1 {
   color: red;
+  font-size: 25px;
 }
+
+div.TitleAuthor h3 {
+  color: red;
+  font-size: 21px;
+}
+
 
 div.NavigationalBar li {
   display: inline;
@@ -116,13 +123,14 @@ main {
 #triangle{
 	width: 0;
 	height: 0;
-	border-left: 25px solid transparent;
-	border-right: 25px solid transparent;
-	border-top: 50px solid #565656;
+	border-left: 100px solid transparent;
+	border-right: 100px solid transparent;
+	border-top: 200px solid #565656;
 }
 
-#triangle span{
+#triangle-text p{
  color: #8426ef;
+ font-size: 18px;
 }
 
 
