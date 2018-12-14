@@ -5,10 +5,12 @@ p {
 h1 {
   font-size: 30px;
   font-weight: bold;
+  font-family: 'Raleway', sans-serif;
 }
 
 h3 {
   font-size: 22px;
+  font-family: 'Raleway', sans-serif;
 }
 
 h4 {
