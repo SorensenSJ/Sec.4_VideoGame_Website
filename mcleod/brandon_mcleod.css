@@ -1,4 +1,6 @@
+body {
 background-image: url("https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_DonkeyKong_image1600w.jpg");
+}
 
 p {
 color : red;
@@ -9,5 +11,6 @@ text-align : center;
 }
 
 h3 {
-color : gree;
+color : green;
 }
+</div>
