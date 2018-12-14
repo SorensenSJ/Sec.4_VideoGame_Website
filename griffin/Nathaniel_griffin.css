@@ -2,9 +2,6 @@ h1 {
   font-family: Arial;
   color: Green;
 }
-p {
-  text-align: center;
-}
 h2 {
   text-align: center;
 }
@@ -12,5 +9,11 @@ h3 {
   text-align: center;
 }
 .Intro {
+  text-align: center;
+}
+.different categories {
+  text-align: center;
+}
+.How to Play {
   text-align: center;
 }
