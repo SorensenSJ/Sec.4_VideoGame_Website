@@ -18,8 +18,31 @@ h3{
     color: orange;
     text-align:center;
 }
-header{
+div.NavigationalBar li {
+  display: inline;
+}
+
+.NavigationalBar {
+ width: 2560px;
+ position: fixed;
+ max-height: 50px;
+}
+div.NavigationalBar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+div.NavigationalBar li {
+  float: left;
+}
+
+.NavigationalBar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
