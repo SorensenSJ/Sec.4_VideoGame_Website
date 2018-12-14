@@ -8,9 +8,10 @@ ul {
   padding: 0;
 }
 
-li a{
+li a {
   display: inline;
   float: left;
+}
 
 p {
   font-family: Arial;
