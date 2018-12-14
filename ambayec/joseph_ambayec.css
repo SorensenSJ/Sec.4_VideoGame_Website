@@ -127,12 +127,12 @@ main {
     text-align: center;
     vertical-align: middle;
     border-radius: 50%;
-    background: #918484;
+    background: #323335;
     color: #fff;
 }
  
 .circle-text p {
-  font-size: 25px;
+  font-size: 35px;
   color: #8426ef;
   font-weight: bold;
 }
