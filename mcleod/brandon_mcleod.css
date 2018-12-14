@@ -1,7 +1,7 @@
 body {
+   background-size: contain;
 background-image: url("https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_DonkeyKong_image1600w.jpg");
 background-repeat: repeat-y;
-  background-size: contain;
 }
 
 p {
