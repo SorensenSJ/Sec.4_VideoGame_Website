@@ -46,3 +46,8 @@ div.NavigationalBar li {
   padding: 14px 16px;
   text-decoration: none;
 }
+div.pros/cons{
+  font-size:20px;
+  color: orange;
+  text-align:center;
+}
