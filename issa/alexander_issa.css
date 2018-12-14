@@ -1,0 +1,14 @@
+* {
+font-family: 'Aclonica', sans-serif;
+}
+
+body {
+background-image: url("https://cdn.arstechnica.net/wp-content/uploads/2017/05/Farpoint_001.0-800x450.jpg");
+  background-repeat: repeat-y;
+}
+
+p {
+color: #FFF;
+  font-size: 18px;
+  font-family: 'Aclonica', sans-serif;
+}
