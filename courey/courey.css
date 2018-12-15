@@ -22,3 +22,15 @@ color : green;
 font-size : 25px;
 font-weight : bold;
 }
+
+.navigation {
+color : #333;
+display : inline-block;
+height : 50px;
+witdh : 3000px;
+}
+
+.navigation li {
+color: FFF;
+font-size: 25px;
+}
