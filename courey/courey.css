@@ -33,4 +33,5 @@ witdh : 3000px;
 .navigation li {
 color: FFF;
 font-size: 25px;
+text-decoration: none;
 }
