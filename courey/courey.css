@@ -4,21 +4,21 @@ background-image : url(https://steamuserimages-a.akamaihd.net/ugc/86285567999086
 
 p {
 color : black;
-font-size : 12px;
+font-size : 24px;
 }
 
 h1 {
-font-size : 30px;
+font-size : 60px;
 text-align : center;
 }
 
 h2 {
-font-size : 14px;
+font-size : 28px;
 text-align : center;
 }
 
 h3 {
 color : green;
-font-size : 18px;
+font-size : 36px;
 font-weight : bold;
 }
