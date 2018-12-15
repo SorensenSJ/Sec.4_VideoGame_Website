@@ -1,11 +1,7 @@
-@font-face {
-    font-family: 'super_smash_tvregular';
-    src: url('super_smash_tv-webfont.woff2') format('woff2'),
-         url('super_smash_tv-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
+* {
+font-family: 'Press Start 2P', cursive;
 }
+
 
 body {
 background-image: url("nintendo-celebra-su-woodstock-con-super-smash-bros.jpg");
