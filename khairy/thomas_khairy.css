@@ -97,3 +97,8 @@ max-width:300px;
     max-width:650px;
     max-height: auto;
 }
+
+.video {
+  float: right;
+  clear: left;
+}
