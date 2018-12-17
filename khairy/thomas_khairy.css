@@ -101,4 +101,5 @@ max-width:300px;
 .video {
   float: right;
   clear: left;
+  margin: 15px;
 }
