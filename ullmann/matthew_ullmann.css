@@ -10,9 +10,11 @@ body {
 }
 
 h1 {
-  Font-weight: bold;
+  font-weight: bold;
+  font-size: 25px;
 }
 
 h3 {
   font-weight: bold;
+  font-size: 15px;
 }
