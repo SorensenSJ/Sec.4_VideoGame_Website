@@ -20,11 +20,13 @@ h2 {
 
 #GAME_REVIEW {
   text-align: center;
-  color: white;
+  color: #fff;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
 
 p {
   text-align: center;
+  color: black;
 }
 
 #logo {
@@ -33,3 +35,5 @@ p {
   margin-right: auto;
   width: 50%;
 }
+
+
