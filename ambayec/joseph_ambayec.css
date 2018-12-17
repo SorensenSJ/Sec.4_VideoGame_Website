@@ -57,8 +57,8 @@ a.active {
   background-color: #8426ef;
 }
 
-.active a:hover:not {
-   color: #1121;
+.active a:hover:not (.active) {
+   color: #1111;
 }
 
 .asidenav {
