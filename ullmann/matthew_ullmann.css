@@ -24,3 +24,7 @@ menu-bar {
   overflow: hidden;
   background-color: #111E6C;
 }
+
+.menu-item {
+  float: left;
+}
