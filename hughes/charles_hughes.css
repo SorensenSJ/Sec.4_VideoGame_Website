@@ -1,3 +1,26 @@
-p{
-color: black;
+p {
+  color: #485560;
+  font-size: 16px;
+  font-family: 'Times-New-Roman', serif;
+  background-color: #D9C666;
 }
+  
+li {
+  color: #485560;
+  font-size: 16px;
+  font-family: 'Times-New-Roman', serif;
+  }
+  
+h1 {
+  color: #485560;
+  font-size: 40px;
+  text-align: center;
+}
+  
+h2 {
+  color: #485560;
+  font-size: 40px;
+}
+
+
+  
