@@ -4,26 +4,32 @@ background-image: url("https://cdn02.nintendo-europe.com/media/images/10_share_i
 }
 
 p {
-color : white;
+color: white;
 }
 
 h1 {
-text-align : left;
-  font-family : 'Times New Roman', sans-serif; 
-  color : white;
+text-align: left;
+  font-family: 'Times New Roman', sans-serif; 
+  color: white;
 }
 
 h4 {
-   color : white
-      text-allign : left;
+   color: white
+      text-allign: left;
 }
 
 h3 {
-color : white;
-   text-allign : left;
+color: white;
+   text-allign: left;
 }
 
 #donkey {
- color: red;
-   text-allign : center;
+ color: white;
+   text-allign: left;
+}
+
+p {
+   color: white;
+      font-weight: strong;
+   text-allign: left; 
 }
