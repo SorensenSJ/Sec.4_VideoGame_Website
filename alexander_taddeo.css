@@ -19,10 +19,22 @@ h4{
   top: -50px;
   left: 10px;
 }
+header{
+  background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/Nu2DDaj5gikp4kjij/fly-through-outer-space-nebula-and-stars-animated-background_scybrqakl_thumbnail-full11.png");
+  font-size: 25px;
+  color: white;
+  height: 50px;
+  text-align: center;
+  text-shadow: 3px 3px #333333;
+  
+}
 p{
   font-size: 20px;
 }
 .gendes{
   background: #FFFFFF url("http://www.bruna.cat/imgdownload/full/70/709757/latest-guns-wallpapers.jpg") no-repeat;
    color: white;
+}
+.awk{
+  margin-right:500px;
 }
