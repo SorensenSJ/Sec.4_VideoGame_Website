@@ -57,7 +57,7 @@ a.active {
   background-color: #8426ef;
 }
 
-.active a:hover:not (.active) {
+ .NavigationalBar li a:hover:not{
    color: #1111;
 }
 
