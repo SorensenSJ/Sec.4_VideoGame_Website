@@ -80,3 +80,8 @@ max-width:50px;
 max-width:300px;
     max-height: auto;
 }
+
+.item-rarity {
+  background-color: black;
+  width: 136px;
+}
