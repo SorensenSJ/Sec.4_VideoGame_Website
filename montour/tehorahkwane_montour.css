@@ -1,4 +1,7 @@
 body {
   font-type : Arial;
   color : white;
+  background-image : "bg.jpg";
+  background-repeat : no-repeat;
+  background-attachment : fixed;
 }
