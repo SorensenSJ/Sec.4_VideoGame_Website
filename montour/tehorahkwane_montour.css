@@ -1,7 +1,7 @@
 body {
-  font-type : Arial;
-  color : white;
+  font-type : "arial";
+  color : "white";
   background-image : ("https://stmed.net/sites/default/files/civilization-vi-hd-wallpapers-32896-6815626.jpg");
-  background-repeat : no repeat;
-  background-attachment : fixed;
+  background-repeat : "no-repeat";
+  background-attachment : "fixed";
 }
