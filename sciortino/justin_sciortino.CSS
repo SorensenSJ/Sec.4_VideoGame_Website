@@ -57,7 +57,9 @@ font-size:20px;
   margin-right: auto;
   width: 50%;
 }
-
-#table {
+#paint {
+  color: orange;
+}
+#Nuke {
   color: orange;
 }
