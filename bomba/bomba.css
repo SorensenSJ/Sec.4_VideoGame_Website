@@ -2,12 +2,26 @@
 font-family: 'Press Start 2P', cursive;
 }
 
-
 body {
-background-image: url("nintendo-celebra-su-woodstock-con-super-smash-bros.jpg");
+  background-image: url("nintendo-celebra-su-woodstock-con-super-smash-bros.jpg");
   background-size: cover;
+  background-size: contain;
 }
 
 h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+
+#GAME_REVIEW {
+  text-align: center;
+  color: white;
+}
+
+p {
   text-align: center;
 }
