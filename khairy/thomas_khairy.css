@@ -79,9 +79,21 @@ max-width:50px;
 #ranks {
 max-width:300px;
     max-height: auto;
+  float: right;
+  margin: 20px;
 }
 
 .item-rarity {
   background-color: black;
   width: 136px;
+}
+
+.casual-game-modes {
+  width: 300px;
+}
+
+.casual-playlist {
+  float: right;
+    max-width:650px;
+    max-height: auto;
 }
