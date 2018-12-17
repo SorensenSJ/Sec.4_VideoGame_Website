@@ -46,10 +46,10 @@ div.NavigationalBar li {
   padding: 14px 16px;
   text-decoration: none;
 }
-div.pros.cons{
+h6{
 font-size:20px;
-colour: orange;
-text-align:center;
+  color: orange;
+  text-align:center;
 }
 .center {
   display: block;
