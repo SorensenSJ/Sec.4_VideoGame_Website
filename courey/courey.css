@@ -10,11 +10,13 @@ font-size : 24px;
 }
 
 h1 {
+color: white;
 font-size : 60px;
 text-align : center;
 }
 
 h2 {
+color: white;
 font-size : 28px;
 text-align : center;
 }
@@ -23,6 +25,26 @@ h3 {
 color : green;
 font-size : 25px;
 font-weight : bold;
+}
+
+a:link {
+color : white;
+text-decoration : none;
+}
+
+a:visited {
+color : white;
+text-decoration : none;
+}
+
+a:hover{
+color: blue;
+text-decoration : none;
+}
+
+a:active{
+color : white;
+text-decoration : none;
 }
 
 .navigation {
