@@ -80,6 +80,6 @@ p {
   background-color: #111111;
 }
 
-.video {
-  text-align;
+.video { 
+  margin: 0 auto; width: 400px;
 }
