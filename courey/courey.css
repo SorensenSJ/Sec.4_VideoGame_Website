@@ -47,15 +47,26 @@ color : white;
 text-decoration : none;
 }
 
-.navigation {
-color : #333;
-display : inline-block;
-height : 50px;
-witdh : 3000px;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
 }
 
-.navigation li {
-color: FFF;
-font-size: 25px;
-text-decoration: none;
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111111;
 }
