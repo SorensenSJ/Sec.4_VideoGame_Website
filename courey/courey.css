@@ -48,25 +48,25 @@ text-decoration : none;
 }
 
 ul {
-list-style-type: none;
-margin: 0;
-padding: 0;
-overflow: hidden;
-background-color: #333333;
+list-style-type : none;
+margin : 0;
+padding : 0;
+overflow : hidden;
+background-color : #666;
 }
 
 li {
-float: left;
+float : left;
 }
 
 li a {
-display: block;
-color: white;
-text-align: center;
-padding: 20px;
-text-decoration: none;
+display : block;
+color : white;
+text-align : center;
+padding : 25px;
+text-decoration : none;
 }
 
 li a:hover {
-background-color: #3da360;
+background-color : #3da360;
 }
