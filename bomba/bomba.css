@@ -56,3 +56,26 @@ p {
   width: 50%;
 }
 
+.menu_bar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+.menu_bar li {
+  float: left;
+}
+
+.menu_bar a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.menu_bar li a:hover {
+  background-color: #111111;
+}
