@@ -117,6 +117,8 @@ main {
  background-color: #eee;
  width: 200px;
  height: 100px;
+ border-width: 5px;
+ border-style: solid:
 }
 
 .Screenshots img {
@@ -134,6 +136,7 @@ main {
     color: #fff;
     position: relative;
     left: 200px;
+  
 }
  
 .circle-text p {
