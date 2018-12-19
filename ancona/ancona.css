@@ -1,3 +1,7 @@
 * {
   font-family: Times New Roman;
 }
+
+.Title&Author h1 {
+   color: teal;
+}
