@@ -1,13 +1,11 @@
 body {
-  font-family : "wingdings";
+  font-family : "arial";
   color : white;
   background-image : url(https://stmed.net/sites/default/files/civilization-vi-hd-wallpapers-32896-6815626.jpg);
 }
 goodpoints {
   color : green;
-  font-family : arial;
 }
 badpoints {
   color: green;
-  fon-family : arial;
 }
