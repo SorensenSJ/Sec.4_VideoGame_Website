@@ -4,7 +4,7 @@
 }
 
 body {
- background-image: url("Images/Github Image 2.jpg");
+ background-image: ("Images/Github Image 2.jpg");
   background-repeat: repeat-y;
   background-size: contain;
 }
@@ -15,4 +15,17 @@ h1 {
 
 h3 {
   font-weight: bold;
+}
+
+.Rating {
+ 
+}
+
+.menu-bar {
+  
+}
+
+.More Navigation {
+  font-weight: bold; 
+  
 }
