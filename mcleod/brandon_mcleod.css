@@ -4,7 +4,7 @@ background-image: url("https://github.com/SorensenSJ/Sec.4_VideoGame_Website/blo
 }
 
 p {
-color: white;
+color: #FFF;
 }
 
 ul {
@@ -21,7 +21,7 @@ li {
 
 li a {
   display: block;
-  color: white;
+  color: #FFF;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -39,17 +39,17 @@ h4 {
 }
 
 h3 {
-color: white;
+color: #FFF;
    text-allign: left;
 }
 
 #donkey {
- color: white;
+ color: #FFF;
    text-allign: left;
 }
 
 p {
-   color: white;
+   color: #FFF;
       font-weight: strong;
    text-allign: left; 
 }
