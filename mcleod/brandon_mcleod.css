@@ -1,6 +1,6 @@
 body {
    background-size: contain;
-background-image: url("donkey kong image (background picture).jpg");
+background-image: url("https://github.com/SorensenSJ/Sec.4_VideoGame_Website/blob/master/mcleod/donkey%20kong%20image%20(background%20picture).jpg");
 }
 
 p {
@@ -35,6 +35,7 @@ li a:hover {
 h4 {
    color: white
       text-allign: left;
+   font-weight: strong;
 }
 
 h3 {
