@@ -1,5 +1,6 @@
-* {
-  background-color: Red;
+
+body {
+background-image: url(https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/2018/11/rdr2.jpg?itok=orXBk559);
+  background-repeat: repeat-y;
+  background-size: cover;
 }
-
-
