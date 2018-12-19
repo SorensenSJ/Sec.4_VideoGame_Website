@@ -107,3 +107,7 @@ max-width:300px;
 h3 span {
    background-color: black;
 }
+
+span {
+  padding: 5px 8px;
+}
