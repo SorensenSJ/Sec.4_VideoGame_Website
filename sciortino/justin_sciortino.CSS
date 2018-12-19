@@ -57,7 +57,27 @@ font-size:20px;
   margin-right: auto;
   width: 50%;
 }
-.orange{
+#paint {
   color: orange;
-  text-align:center;
+}
+#Nuke {
+  color: orange;
+}
+#map {
+  color: orange;
+}
+#carry {
+  color: orange;
+}
+#torque {
+  color: orange;
+}
+#SAUG {
+  color: orange;
+}
+#ajax {
+  color: orange;
+}
+#titan {
+  color: orange;
 }
