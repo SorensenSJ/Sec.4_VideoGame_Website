@@ -25,26 +25,30 @@ h3 {
 p {
   font-family: 'Asap', sans-serif;
 }
-#menu ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333333;
+ul {
+list-style-type : none;
+margin : 0;
+padding : 0;
+overflow : hidden;
+background-color : #666;
 }
 
-#menu li {
-  float: left;
+li {
+float : left;
 }
 
-#menu li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 16px;
-  text-decoration: none;
+li a {
+display : block;
+color : white;
+text-align : center;
+padding : 30px;
+text-decoration : none;
 }
 
-#menu li a:hover {
-  background-color: #111111;
+li a:hover {
+background-color : #3da360;
+}
+
+.navigation{
+font-size: 25px;
 }
