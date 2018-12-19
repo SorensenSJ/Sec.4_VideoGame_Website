@@ -1,0 +1,32 @@
+h1 {
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;  
+}
+h2 {
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+p {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin-right: 270px;
+  padding-right: 200px;
+  letter-spacing:1px;
+  
+}
+li {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.shanghai {
+  height: 30%;
+  width: 30%;
+  position: absolute;
+  top: 910px; right:0px;
+}
+.home {
+ height: 7.5%; 
+}
+.back {
+  height: 7%;
+  width: 4%;
+}
+.next {
+  height: 7.5%;
+}
