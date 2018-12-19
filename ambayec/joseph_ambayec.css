@@ -16,7 +16,7 @@ div.TitleAuthor h1 {
 }
 
 div.TitleAuthor h3 {
-  color: red;
+  color: black;
   font-size: 21px;
 }
 
@@ -122,13 +122,15 @@ main {
 
 .circle-text {
     display: table-cell;
-    height: 200px; 
+    height: 200px;
     width: 200px;
     text-align: center;
     vertical-align: middle;
     border-radius: 50%;
     background: #323335;
     color: #fff;
+    position: relative;
+    left: 200px;
 }
  
 .circle-text p {
@@ -136,6 +138,15 @@ main {
   color: #8426ef;
   font-weight: bold;
 }
+footer {
+  position: relative;
+  bottom: -50px;
+}
 
 
+
+footer a {
+  left: -40px;
+  position: relative;
+}
 

@@ -1,35 +1,6 @@
-* {
-  background-color: Red;
-}
 
-.menu-item {
-  display: block;
-  float: left;
-  color: white;
-  text-align: center;
-  padding: 8px 10px;
-  text-decoration: none;
-}
-
-p {
-  font-family: Arial;
-}
-
-h1 {
-  font-size: 40px;
-  font-weight: bold;
-  font-family: 'Times New Roman
-', sans-serif;
-}
-
-h3 {
-  font-size: 22px;
-  font-family: 'Times New Roman
-', sans-serif;
-}
-
-h4 {
-  font-size: 30px;
-  font-family: 'Times New Roman
-', sans-serif;
+body {
+background-image: url(https://images7.alphacoders.com/750/750703.jpg);
+  background-repeat: repeat-y;
+  background-size: cover;
 }

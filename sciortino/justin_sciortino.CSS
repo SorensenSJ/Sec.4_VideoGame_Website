@@ -19,13 +19,14 @@ h3{
     text-align:center;
 }
 div.NavigationalBar li {
-  display: inline;
+  display: i
 }
 
 .NavigationalBar {
  width: 2560px;
  position: fixed;
  max-height: 50px;
+  display:block;
 }
 div.NavigationalBar ul {
   list-style-type: none;
@@ -57,7 +58,33 @@ font-size:20px;
   margin-right: auto;
   width: 50%;
 }
-.orange{
+#pros {
   color: orange;
-  text-align:center;
+}
+#cons {
+  color: orange;
+}
+#paint {
+  color: orange;
+}
+#nuke {
+  color: orange;
+}
+#maps {
+  color: orange;
+}
+#carry {
+  color: orange;
+}
+#torque {
+  color: orange;
+}
+#SAUG {
+  color: orange;
+}
+#ajax {
+  color: orange;
+}
+#titan {
+  color: orange;
 }
