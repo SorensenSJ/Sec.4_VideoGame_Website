@@ -5,7 +5,7 @@
 .menu-item {
   display: block;
   float: left;
-  color: white;
+  background-color: black;
   text-align: center;
   padding: 8px 10px;
   text-decoration: none;
