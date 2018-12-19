@@ -72,5 +72,7 @@ background-color : #3da360;
 }
 
 .navigation{
-font-size: 25px;
+font-size : 25px;
+width : 3000px;
+max-height : 50px;
 }
