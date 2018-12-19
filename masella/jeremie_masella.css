@@ -64,24 +64,24 @@ h3 {font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .w3-round {
-    height: 400px;
-    width: 600px;
+    height: 600px;
+    width: 900px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
 .BestBuy {
-    height: 400px;
-    width: 600px;
+    height: 550px;
+    width: 900px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
 .VrPicture {
-    height: 400px;
-    width: 700px;
+    height: 550px;
+    width: 900px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -133,11 +133,32 @@ h3 {font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     color: #FF0000;
 }
 
+.ratings{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     font-family: Tahoma, Verdana, Segoe, sans-serif;
+     font-size: 30px;
+}
+
+.overall {
+    font-size: 30px;  
+}
+
+.youtube {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 900px;
+     height: 550px;
+}
+
 footer {
     width: 100%;
     background-color: #222;
     padding: 20px;
 }
+
 footer nav {
   float: none;
 }
@@ -159,8 +180,7 @@ footer nav a {
     color: #FFFFFF;
     text-decoration: none;
     text-transform: capitalize;
-    font-family: Geneva, Tahoma, Verdana, sans-serif;
-      
+    font-family: Geneva, Tahoma, Verdana, sans-serif; 
 }
 
 footer nav a:hover {
