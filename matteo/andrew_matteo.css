@@ -3,8 +3,7 @@ font-family: 'Raleway', sans-serif;
 }
 
 body {
-  background-image: url("https://compass-ssl.xbox.com/assets/46/58/465889e7-3a93-47b6-8323-087f23eb1132.jpg?n=FIFA-19_GLP-Page-Hero-1084_1920x600_02.jpg");
-  background-repeat: repeat-y;
+  background-image: url(images/robnaldo.jpg);
   background-size: cover;
   font-size: 19px;
 }
