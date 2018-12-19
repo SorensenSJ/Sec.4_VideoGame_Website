@@ -1,5 +1,55 @@
-* {
-font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+body {
+    font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto; 
+}
+
+header {
+    background: #A9A9A9;    
+}
+
+header:after {
+    content: ' ';
+    display: table;
+    clear: both;
+}
+
+.logo {
+    float: left;
+    height: 50px;
+    width: 60px;
+    padding: 7px;
+}
+
+nav {
+  float: right;
+}
+
+nav ul {
+    margin: 0;
+    padding:0;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block; 
+    text-align: center;
+    margin-left: 10px;
+    padding-top: 20px;  
+}
+
+nav a {
+    color: #000000;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Geneva, Tahoma, Verdana, sans-serif;
+}
+
+nav a:hover {
+    color: #FF0000s;
 }
 
 h1 {color: #000000;
