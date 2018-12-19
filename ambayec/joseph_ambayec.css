@@ -138,6 +138,15 @@ main {
   color: #8426ef;
   font-weight: bold;
 }
+footer {
+  position: relative;
+  bottom: -50px;
+}
 
 
+
+footer a {
+  left: -40px;
+  position: relative;
+}
 
