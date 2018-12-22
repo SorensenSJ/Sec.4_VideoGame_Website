@@ -9,6 +9,11 @@ body {
     background-size: contain;  
 }
 
+h1 {
+  font-size: 60px;
+  text-align: left;
+  margin: 10px;
+
 h2 {
   font-weight: bold;
 }
