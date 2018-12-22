@@ -4,10 +4,12 @@
 }
 
 body {
- background-image: ("../Images/Github Image 2.jpg");
+ background-image: ("../Github Image 2.jpg");
   background-repeat: repeat-y;
   background-size: contain;
 }
+
+
 
 h1 {
   font-weight: bold;
