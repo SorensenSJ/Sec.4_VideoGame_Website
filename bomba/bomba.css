@@ -34,12 +34,6 @@ p {
   width: 50%;
 }
 
-#bomba {
-  text-align: center;
-  color: #fff;
-  text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
-}
-
 #fighter {
   display: block;
   margin-left: auto;
