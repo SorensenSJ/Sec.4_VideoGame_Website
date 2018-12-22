@@ -12,22 +12,19 @@ body {
 
 h1 {
   text-align: center;
+  color: White;
+  text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
 
 h2 {
   text-align: center;
-  color: white;
-}
-
-#GAME_REVIEW {
-  text-align: center;
-  color: #fff;
+  color: White;
   text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
 
 p {
   text-align: center;
-  color: black;
+  color: Black;
 }
 
 #logo {
@@ -71,7 +68,7 @@ p {
 
 .menu_bar a {
   display: block;
-  color: white;
+  color: White;
   text-align: center;
   padding: 25px;
   text-decoration: none;
