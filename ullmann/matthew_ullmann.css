@@ -19,6 +19,8 @@ h2 {
 }
 
 .menu-bar {
+  float: left;
+  margin: 10px;
   list-style: none;
 }
 
