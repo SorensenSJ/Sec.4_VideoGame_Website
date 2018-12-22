@@ -9,6 +9,10 @@ body {
     background-size: contain;  
 }
 
+p {
+  margin: 15px;
+}
+
 h1 {
   font-size: 45px;
   text-align: left;
