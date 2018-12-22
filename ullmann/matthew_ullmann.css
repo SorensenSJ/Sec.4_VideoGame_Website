@@ -19,7 +19,8 @@ h2 {
 }
 
 .menu-bar {
-  float: left;  
+  float: left;
+  text-decoloration: none;
 }
 
 .More Navigation {
