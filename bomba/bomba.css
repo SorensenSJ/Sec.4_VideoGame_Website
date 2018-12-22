@@ -48,6 +48,14 @@ p {
   width: 50%;
 }
 
+#menulogo {
+  max-width:50px;
+  max-height: auto;
+  border: 0px;
+  text-align: center;
+  padding: 14px 16px;
+  float: left;
+
 .menu_bar ul {
   list-style-type: none;
   margin: 0;
@@ -84,4 +92,46 @@ p {
 #introp {
   background-color: rgba(255,255,255,0.5)
 }
+  
+#smash {
+  color: Red
+}
+  
+#smash_mode {
+  background-color: rgba(255,0,0,0.7)
+}
+  
+#online {
+  color: Orange
+}
+  
+#online_mode {
+  background-color: rgba(255,165,0,0.7)
+}
+  
+#challenges {
+  color: rgb(255,0,255)
+}
+  
+#challenge_mode {
+  background-color: rgba(255,0,255,0.7)
+}
+  
+#smash_run {
+  color: rgb(37,233,90)
+}
+  
+#smash_run_mode {
+  background-color: rgba(37,233,90.0.7)
+}
+  
+#gamesmore {
+  color: rgb(0,0,255)
+}
+  
+#games_and_more_mode {
+  background-color: rgba(0,0,255,0.7)
+}
+  
+  
 
