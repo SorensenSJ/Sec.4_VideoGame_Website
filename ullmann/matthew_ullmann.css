@@ -17,7 +17,11 @@ h1 {
 h2 {
   font-weight: bold;
 }
-
+  
+.menu-bar {
+  style-list: none;
+  }
+  
 .menu-bar {
   float: left;
   margin: 10px;
