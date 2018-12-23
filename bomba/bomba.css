@@ -48,14 +48,6 @@ p {
   width: 50%;
 }
 
-#menulogo {
-  max-width:50px;
-  max-height: auto;
-  border: 0px;
-  text-align: center;
-  padding: 14px 16px;
-  float: left;
-
 .menu_bar ul {
   list-style-type: none;
   margin: 0;
@@ -84,7 +76,7 @@ p {
   margin: 0 auto; width: 400px;
 }
 
-.pros_cons {
+.verdict {
   color: White;
   text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
