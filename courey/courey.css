@@ -9,6 +9,8 @@ background-color : black;
 color : #1fc217;
 font-size : 24px;
 opacity: 0.7;
+position: relative;
+z-index: -1;
 }
 
 h1 {
