@@ -38,3 +38,7 @@ h7 {
   font-family: Verdana, Serif;
 }
   
+body {
+  background-repeat: repeat-y;
+  background-size: cover;
+}
