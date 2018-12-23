@@ -113,3 +113,27 @@ font-size:20px;
 .video {
   margin-left: 650px;
 }
+#title {
+  background-color: black;
+}
+#review {
+  background-color: black;
+}
+#what {
+  background-color: black;
+}
+#twhat {
+  background-color: black;
+}
+#good {
+  background-color: black;
+}
+#tgood {
+  background-color: black;
+}
+#bad {
+  background-color: black;
+}
+#tbad {
+  background-color: black;
+}
