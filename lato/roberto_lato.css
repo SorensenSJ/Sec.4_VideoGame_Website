@@ -31,14 +31,20 @@ h7 {
   font-family:  Times, Serif;
   font-size: 30px;
   font-weight: bold;
+  color: white
 }
 
 .body {
   font-size: 17px;
   font-family: Verdana, Serif;
+  color: white
+}
+
+body {
+  background-image: url("starry.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
 }
   
-body {
-  background-repeat: repeat-y;
-  background-size: cover;
-}
+
