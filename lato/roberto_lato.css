@@ -1,11 +1,1 @@
-body {
-  position: relative
-  z-index: 1;
-   background-repeat: repeat-y;
-   background-size: cover;
-}
 
-h1 {
-  position: relative
-  z-index: 2;
-}
