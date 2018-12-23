@@ -1,7 +1,7 @@
 body {
 background-image : url("./backg.jpg");
-background-size: cover;
 background-repeat: no-repeat;
+background-size: cover;
 }  
 
 p {
@@ -48,11 +48,11 @@ text-decoration : none;
 }
 
 ul {
+background-color : #666;
 list-style-type : none;
 margin : 0;
-padding : 0;
 overflow : hidden;
-background-color : #666;
+padding : 0;
 }
 
 li {
@@ -60,10 +60,10 @@ float : left;
 }
 
 li a {
-display : block;
 color : white;
-text-align : center;
+display : block;
 padding : 30px;
+text-align : center;
 text-decoration : none;
 }
 
@@ -73,10 +73,10 @@ background-color : #3da360;
 
 .navigation{
 font-size : 25px;
-width : 3000px;
-max-height : 50px;
-margin-top : -8px;
 margin-bottom : 80px;
-margin-left : -8px
+max-height : 50px;
+margin-left : -8px;
+margin-top : -8px;
 position : fixed;
+width : 3000px;
 }
