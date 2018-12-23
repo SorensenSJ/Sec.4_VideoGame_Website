@@ -41,10 +41,7 @@ h7 {
 }
 
 body {
-  background-image: url("starry.jpg") no-repeat center center fixed ;
-  background-repeat: no-repeat;
-  background-position: right top;
-  background-attachment: fixed;
+  background-image: url("https://i.ytimg.com/vi/T40NSkd7Olc/maxresdefault.jpg");
+  background-size: contain;
 }
-  
 
