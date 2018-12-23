@@ -11,3 +11,8 @@
   text-decoration: underline;
   font-size: 17px;
 }
+
+.stars {
+  width:200px;
+  height:40px;
+}
