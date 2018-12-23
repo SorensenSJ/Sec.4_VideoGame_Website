@@ -2,13 +2,12 @@
 font-family: 'Press Start 2P', cursive;
 }
 
-body {
-  background-image: url("nintendo-celebra-su-woodstock-con-super-smash-bros.jpg");
+html { 
+  background: url("nintendo-celebra-su-woodstock-con-super-smash-bros.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
 
 h1 {
   text-align: center;
@@ -74,56 +73,70 @@ p {
 
 .video { 
   margin: 0 auto; width: 400px;
+  text-align: center;
 }
 
 .verdict {
+  background-color: rgba(0,0,0,0.3);
   color: White;
   text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
 
 #introp {
-  background-color: rgba(255,255,255,0.5)
+  background-color: rgba(255,255,255,0.5);
 }
   
 #smash {
-  color: Red
+  color: Red;
+  background-color: Black;
 }
   
 #smash_mode {
-  background-color: rgba(255,0,0,0.7)
+  background-color: rgba(255,0,0,0.7);
 }
   
 #online {
-  color: Orange
+  color: Orange;
+  background-color: Black;
 }
   
 #online_mode {
-  background-color: rgba(255,165,0,0.7)
+  background-color: rgba(255,165,0,0.7);
 }
   
 #challenges {
-  color: rgb(255,0,255)
+  color: rgb(255,0,255);
+  background-color: Black;
 }
   
 #challenge_mode {
-  background-color: rgba(255,0,255,0.7)
+  background-color: rgba(255,0,255,0.7);
 }
   
 #smash_run {
-  color: rgb(37,233,90)
+  color: rgb(37,233,90);
+  background-color: Black;
 }
   
 #smash_run_mode {
-  background-color: rgba(37,233,90.0.7)
+  background-color: rgba(37,233,90.0.7);
 }
   
 #gamesmore {
-  color: rgb(0,0,255)
+  color: rgb(0,0,255);
+  background-color: Black;
 }
   
 #games_and_more_mode {
-  background-color: rgba(0,0,255,0.7)
+  background-color: rgba(0,0,255,0.7);
 }
   
-  
+.score {
+  color: White;
+  text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
+#concp {
+  background-color: rgba(255,255,255,0.5);
+}
 
