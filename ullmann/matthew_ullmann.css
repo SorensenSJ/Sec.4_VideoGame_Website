@@ -83,4 +83,10 @@ ol {
   font-size: 20px;
 }
 
+#Logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
 
