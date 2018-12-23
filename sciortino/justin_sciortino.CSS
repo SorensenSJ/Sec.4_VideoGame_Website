@@ -85,42 +85,52 @@ font-size:20px;
 #pros {
   color: orange;
   background-color: black;
+  font-size:30px;
 }
 #cons {
   color: orange;
    background-color: black;
+  font-size:30px;
 }
 #paint {
   color: orange;
    background-color: black;
+  font-size:20px;
 }
 #nuke {
   color: orange;
    background-color: black;
+  font-size:20px;
 }
 #maps {
   color: orange;
    background-color: black;
+  font-size:20px;
 }
 #carry {
   color: orange;
    background-color: black;
+  font-size:20px;
 }
 #torque {
   color: orange;
    background-color: black;
+  font-size:20px;
 }
 #SAUG {
   color: orange;
    background-color: black;
+  font-size:20px;
 }
 #ajax {
   color: orange;
    background-color: black;
+  font-size:20px;
 }
 #titan {
   color: orange;
    background-color: black;
+  font-size:20px;
 }
 #image1 {
   display:block;
@@ -177,6 +187,7 @@ font-size:20px;
 }
 #procon {
   background-color: black;
+  font-size:30px;
 }
 #platform {
   background-color: black;
