@@ -3,7 +3,7 @@ body {
   z-index: 1;
 }
 
-title {
+h1 {
   position: relative
   z-index: 2;
 }
