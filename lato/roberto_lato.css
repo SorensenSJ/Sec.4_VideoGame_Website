@@ -1,15 +1,20 @@
 .menubar {
-  background-color: #333;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
   overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 .menubar a {
-  float: left;
-  color: #f2f2f2;
+display: block;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: underline;
-  font-size: 17px;
 }
 
 .stars {
