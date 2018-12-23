@@ -48,6 +48,12 @@ p {
   width: 50%;
 }
 
+.logoicon {
+  float: left;
+  height: 50px;
+  width: 60px;
+  padding: 7px;
+}
 
 body {margin:0;}
 
