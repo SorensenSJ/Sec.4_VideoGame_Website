@@ -194,6 +194,11 @@ font-size:20px;
    margin-left: 725px;
   margin-right: 730px;
 }
-#table {
+#tlist {
   margin-left: 200px;
   margin-right: 200px;
+}
+#ttable {
+   margin-left: 725px;
+  margin-right: 730px;
+}
