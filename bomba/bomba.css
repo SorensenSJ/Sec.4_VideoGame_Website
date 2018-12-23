@@ -8,7 +8,8 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-
+}
+  
 h1 {
   text-align: center;
   color: White;
@@ -114,12 +115,12 @@ p {
 }
   
 #smash_run {
-  color: rgb(37,233,90);
+  color: rgb(41,179,45);
   background-color: Black;
 }
   
 #smash_run_mode {
-  background-color: rgba(37,233,90.0.7);
+  background-color: rgba(41,179,45,0.7);
 }
   
 #gamesmore {
