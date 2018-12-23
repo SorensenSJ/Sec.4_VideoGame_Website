@@ -15,6 +15,7 @@ h2{
   font-size:30px;
     color: orange;
   margin-left: 700px;
+  margin-right: 700px;
 }
 h3{
   font-size:40px;
@@ -73,33 +74,43 @@ font-size:20px;
 }
 #pros {
   color: orange;
+  background-color: black;
 }
 #cons {
   color: orange;
+   background-color: black;
 }
 #paint {
   color: orange;
+   background-color: black;
 }
 #nuke {
   color: orange;
+   background-color: black;
 }
 #maps {
   color: orange;
+   background-color: black;
 }
 #carry {
   color: orange;
+   background-color: black;
 }
 #torque {
   color: orange;
+   background-color: black;
 }
 #SAUG {
   color: orange;
+   background-color: black;
 }
 #ajax {
   color: orange;
+   background-color: black;
 }
 #titan {
   color: orange;
+   background-color: black;
 }
 #image1 {
   display:block;
@@ -144,5 +155,14 @@ font-size:20px;
   background-color: black;
 }
 #tbad {
+  background-color: black;
+}
+#con {
+  background-color: black;
+}
+#tcon {
+  background-color: black;
+}
+#procon {
   background-color: black;
 }
