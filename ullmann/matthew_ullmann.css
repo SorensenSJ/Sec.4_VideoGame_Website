@@ -17,12 +17,12 @@ p {
 h1 {
   font-size: 30px;
   text-align: left;
-  float: left; 
 }
 
 h2 {
   font-weight: bold;
   font-size: 25px;
+  text-aligne: left;
 }
   
 .menu-bar {
@@ -85,6 +85,6 @@ ol {
 }
 
 #Logo {
-  float: left;
+  float: center;
 }
 
