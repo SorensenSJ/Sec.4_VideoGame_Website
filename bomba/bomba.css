@@ -114,6 +114,7 @@ body {margin:0;}
   
 #smash {
   color: Red;
+  text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
   
 #smash_mode {
@@ -122,6 +123,7 @@ body {margin:0;}
   
 #online {
   color: Orange;
+  text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
   
 #online_mode {
@@ -130,6 +132,7 @@ body {margin:0;}
   
 #challenges {
   color: rgb(255,0,255);
+  text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
   
 #challenge_mode {
@@ -138,6 +141,7 @@ body {margin:0;}
   
 #smash_run {
   color: rgb(41,179,45);
+  text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
   
 #smash_run_mode {
@@ -146,6 +150,7 @@ body {margin:0;}
   
 #gamesmore {
   color: rgb(0,0,255);
+  text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
   
 #games_and_more_mode {
