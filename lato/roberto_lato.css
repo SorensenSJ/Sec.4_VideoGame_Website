@@ -1,7 +1,9 @@
 .stars {
   width:200px;
   height:40px;
-  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1,
@@ -11,5 +13,7 @@ h2 {
 }
 
 .pic {
-  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
