@@ -54,6 +54,7 @@ p {
   padding: 0;
   overflow: hidden;
   background-color: #333333;
+  position: fixed;
 }
 
 .menu_bar li {
