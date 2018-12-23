@@ -1,35 +1,10 @@
-.menu bar {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-.menu bar {
-  float: left;
-}
-
-.menu bar a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-.menu bar a:hover:not(.active) {
-  background-color: #111;
-}
-
-.active {
-  background-color: #4CAF50;
-}
-
 .stars {
   width:200px;
   height:40px;
+}
+
+h1,
+h2 {
+  text-align: center;
+  color: #0000FF;
 }
