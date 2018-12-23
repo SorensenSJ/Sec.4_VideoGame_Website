@@ -1,5 +1,5 @@
 h1{
-  font-size:30px;
+  font-size:40px;
     color: orange;
     text-align:center;
   display:inline-block;
@@ -20,21 +20,21 @@ h2{
   margin-right: 730px;
 }
 h3{
-  font-size:40px;
+  font-size:30px;
     color: orange;
     text-align:center;
    margin-left: 725px;
   margin-right: 730px;
 }
 h4 {
-  font-size:40px;
+  font-size:30px;
   color: orange;
   text-align:center;
    margin-left: 725px;
   margin-right: 730px;
 }
 h5 {
-  font-size:40px;
+  font-size:30px;
   color: orange;
   text-align:center;
    margin-left: 725px;
@@ -47,7 +47,7 @@ h5 {
 .NavigationalBar {
  width: 2560px;
  position: fixed;
- max-height: 65px;
+ max-height: 85px;
   display:block;
 }
 div.NavigationalBar ul {
@@ -194,3 +194,6 @@ font-size:20px;
    margin-left: 725px;
   margin-right: 730px;
 }
+#table {
+  margin-left: 350px;
+  margin-right: 350px;
