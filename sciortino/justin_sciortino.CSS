@@ -148,6 +148,8 @@ font-size:20px;
 }
 #review {
   background-color: black;
+   margin-left: 725px;
+  margin-right: 730px;
 }
 #what {
   background-color: black;
@@ -175,4 +177,9 @@ font-size:20px;
 }
 #procon {
   background-color: black;
+}
+#platform {
+  background-color: black;
+   margin-left: 725px;
+  margin-right: 730px;
 }
