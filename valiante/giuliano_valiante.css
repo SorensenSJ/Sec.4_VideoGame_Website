@@ -27,11 +27,17 @@ h3 {
 }
 
 .menu {
-  
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
 }
 
 .menu item {
   text-align: center;
+  background-color: orange;
+  color: black;
 }  
 
 .title {
@@ -43,15 +49,17 @@ h3 {
 .review text{
   text-align: left;
   font-family: Georgia;
+  width: 
 }
 
 .rating {
   float: right;
+  clear: left;
 }
 
 .trailer {
-  float: left;
-  clear: right;
+  align: right;
+  clear: left;
 }
 
 .game modes {
