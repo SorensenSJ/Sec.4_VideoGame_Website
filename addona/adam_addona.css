@@ -37,22 +37,20 @@ ul {
   background-color: #333;
 }
 
-.menu-item {
-  float: left;
+li {
+float : left;
 }
 
 li a {
-  display: block;
-  color: #FFF;
-  text-align: center;
-  padding: 25px;
-  text-decoration: none;
-  vertical-align: text-bottom;
-  font-size: 20px;
+color : white;
+display : block;
+font-family : "Times New Roman";
+padding : 30px;
+text-align : center;
+text-decoration : none;
 }
 
 li a:hover {
-  background-color: #111;
+background-color : #3da360;
 }
 
-  
