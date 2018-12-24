@@ -1,32 +1,48 @@
-
-body {
-background-image: url(
-  background-size: cover;
+h1 {
+  font-family: Arial;
+  color: Red;
 }
-.menu-item {
+h2 {
+  text-align: center;
+  color: Red;
+}
+h3 {
+  text-align: center;
+  color: Red;
+}
+.Intro {
+  text-align: center;
+}
+.Different_Categories {
+  text-align: center;
+}
+.What_the_game_is_about {
+  text-align: center;
+}
 
-  float: left;
-
+p {
+  font-family: 'Asap', sans-serif;
 }
 
 
+li {
+float : left;
+}
 
 li a {
+display : block;
+color : white;
+text-align : center;
+padding : 30px;
+text-decoration : none;
+}
 
-  display: block;
+li a:hover {
+background-color : #FFD700;
+}
 
-  color: #FFF;
+.menu_bar{
+font-size: 25px;
+}
 
-  text-align: center;
-
-  padding: 25px;
-
-  text-decoration: none;
-
-  vertical-align: text-bottom;
-
-  font-size: 20px;
-  h1{
-  text allign:center;
-  h2{
-  text allig:left;
+  
