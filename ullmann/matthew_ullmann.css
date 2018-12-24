@@ -70,9 +70,8 @@ li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 15px;
+  padding: 18px, 18px;
   text-decoration: none;
-  font-size: 15px;
 }
 
 li a:hover {
