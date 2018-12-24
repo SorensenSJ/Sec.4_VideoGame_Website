@@ -89,10 +89,11 @@ max-height : 50px;
 margin-left : -8px;
 margin-top : -130px;
 position : fixed;
-width : 3000px;
+width : 100%;
 }
 
 .score p{
 font-size: 35px;
 background-color : transparent;
+text-align: center;
 }
