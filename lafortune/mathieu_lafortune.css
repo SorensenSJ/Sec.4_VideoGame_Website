@@ -1,1 +1,15 @@
+*{
+  font family: 'Calibri', sans-serif;
+}
 
+body{
+  background-image: url("https://images.search.yahoo.com/search/images;_ylt=AwrE1xtXCCBcMuAAik1XNyoA;_ylu=X3oDMTB0N2Noc21lBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNwaXZz?p=fortnite&fr2=piv-web&fr=chr-yo_gc#id=0&iurl=https%3A%2F%2Fimages.nvidia.com%2Fgeforce-com%2Finternational%2Ffortnite-early-access%2FBanner.jpg&action=click")
+    background-size: cover;
+}
+
+p{
+  colour: #000000
+    font-size: 12 px
+    font-family: 'Calibri', sans-serif;
+     background-colour: yellow;
+}
