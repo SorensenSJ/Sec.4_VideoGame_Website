@@ -72,6 +72,7 @@ float : left;
 li a {
 color : white;
 display : block;
+font-family: "Times New Roman" !important;
 padding : 30px;
 text-align : center;
 text-decoration : none;
