@@ -1,7 +1,7 @@
 body {
 background-image : url("./backgr.jpg");
 background-repeat: no-repeat;
-background-size: 1600px 4748px;
+background-size: 100% 4748px;
 }  
 
 p {
