@@ -19,7 +19,6 @@ h2 {
   font-weight: bold;
   font-size: 25px;
   text-aligne: left;
-  color: white;
 }
   
 .menu-bar {
@@ -54,7 +53,7 @@ h2 {
   margin: 10px;
   }
 
-#Video {141932
+#Video {
   margin: 10px;
 }
 
@@ -66,11 +65,15 @@ ul {
   background-color: #324164;
 }
 
+li {
+  float: left;
+}
+
 li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 18px, 16px;
+  padding: 18px 20px;
   text-decoration: none;
 }
 
