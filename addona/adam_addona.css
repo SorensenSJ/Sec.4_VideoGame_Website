@@ -1,14 +1,18 @@
+* {
+  background-color: Black;
+}
+
 h1 {
   font-family: Arial;
-  color: Red;
+  color: White;
 }
 h2 {
   text-align: center;
-  color: Red;
+  color: White;
 }
 h3 {
   text-align: center;
-  color: Red;
+  color: White;
 }
 .Intro {
   text-align: center;
@@ -22,6 +26,7 @@ h3 {
 
 p {
   font-family: 'Asap', sans-serif;
+  color: White;
 }
 
 
@@ -31,14 +36,14 @@ float : left;
 
 li a {
 display : block;
-color : white;
+color : White;
 text-align : center;
 padding : 30px;
 text-decoration : none;
 }
 
 li a:hover {
-background-color : #FFD700;
+background-color :#F20B1B;
 }
 
 .menu_bar{
