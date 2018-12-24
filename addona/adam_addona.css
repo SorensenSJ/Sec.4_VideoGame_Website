@@ -3,15 +3,16 @@
 }
 
 h1 {
+  text-align: center;
   font-family: Arial;
   color: White;
 }
 h2 {
-  text-align: center;
+  text-align: Left;
   color: White;
 }
 h3 {
-  text-align: center;
+  text-align: Left;
   color: White;
 }
 .Intro {
