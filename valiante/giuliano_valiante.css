@@ -1,73 +1,132 @@
+* {
+  font-family: 'Arial Black';
+}
+
 p {
   font-family: Georgia;
 }
 
 h1 {
-  color
+  font-family: 'Arial Black', sans-serif;
+  text-align: center;
+  
 }
 
 h2 {
-  
+  font-family: 'Arial Black', sans-serif;
+  text-align: left;
+  color: white;
+  background-color: black;
 }
 
 h3 {
-  
+  font-family: 'Arial Black', sans-serif;
+  text-align: left;
+  color: white;
+  background-color: black;
 }
 
 .menu {
   
 }
 
+.menu item {
+  text-align: center;
+}  
+
 .title {
-  
+  text-align: center;
+  color: white;
+  background-color: black;
 }
 
 .review text{
-  
+  text-align: left;
+  font-family: Georgia;
 }
 
 .rating {
-  
+  float: right;
 }
 
 .trailer {
-  
+  float: left;
+  clear: right;
 }
 
 .game modes {
-  
+  font-family: 'Arial Black', sans-serif;
+  text-align: left;
+  color: white;
+  background-color: black;
 }
 
 .the one {
-  
+  font-family: 'Arial Black', sans-serif;
+  text-align: left;
+  color: white;
+  background-color: black;
 }
 
 .the one text {
-  
+  text-align: left;
+  font-family: Georgia;
+}
+
+.the one image {
+  clear: left;
+  float: right;
 }
 
 .court battles {
-  
+  font-family: 'Arial Black', sans-serif;
+  text-align: left;
+  color: white;
+  background-color: black;
 }
 
 .court battles text {
-  
+  text-align: left;
+  font-family: Georgia;
+}
+
+.court battles image {
+  clear: left;
+  float: right;
 }
 
 .the league {
-  
+  font-family: 'Arial Black', sans-serif;
+  text-align: left;
+  color: white;
+  background-color: black;
 }
 
 .the league text {
-  
+  text-align: left;
+  font-family: Georgia;
+}
+
+.the league image {
+  clear: left;
+  float: right;
 }
 
 .the streets {
-  
+  font-family: 'Arial Black', sans-serif;
+  text-align: left;
+  color: white;
+  background-color: black;
 }
 
 .the streets text {
-  
+  text-align: left;
+  font-family: Georgia;
+}
+
+.the streets image {
+  clear: left;
+  float: right;
 }
 
 .how to play {
