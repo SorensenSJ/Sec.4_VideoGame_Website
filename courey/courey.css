@@ -1,3 +1,7 @@
+*{
+font-family: "Courier New", "Times New Roman", Times;
+}
+
 body {
 background-image : url("./backgr.jpg");
 background-repeat: no-repeat;
