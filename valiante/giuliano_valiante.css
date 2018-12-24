@@ -9,7 +9,7 @@ p {
 h1 {
   font-family: 'Arial Black', sans-serif;
   text-align: center;
-  
+  font-weight: bold;
 }
 
 h2 {
@@ -27,11 +27,17 @@ h3 {
 }
 
 .menu {
-  
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
 }
 
 .menu item {
   text-align: center;
+  background-color: orange;
+  color: black;
 }  
 
 .title {
@@ -43,15 +49,17 @@ h3 {
 .review text{
   text-align: left;
   font-family: Georgia;
+  width: 500px;
 }
 
 .rating {
   float: right;
+  clear: left;
 }
 
 .trailer {
-  float: left;
-  clear: right;
+  align: right;
+  clear: left;
 }
 
 .game modes {
@@ -71,11 +79,14 @@ h3 {
 .the one text {
   text-align: left;
   font-family: Georgia;
+  width: 500px;
 }
 
 .the one image {
   clear: left;
   float: right;
+  height: 300px;
+  width: 500px;
 }
 
 .court battles {
@@ -88,11 +99,14 @@ h3 {
 .court battles text {
   text-align: left;
   font-family: Georgia;
+  width: 500px;
 }
 
 .court battles image {
   clear: left;
   float: right;
+  height: 300px;
+  width: 500px;
 }
 
 .the league {
@@ -105,11 +119,14 @@ h3 {
 .the league text {
   text-align: left;
   font-family: Georgia;
+  width: 500px;
 }
 
 .the league image {
   clear: left;
   float: right;
+  height: 300px;
+  width: 500px;
 }
 
 .the streets {
@@ -122,11 +139,14 @@ h3 {
 .the streets text {
   text-align: left;
   font-family: Georgia;
+  width: 500px;
 }
 
 .the streets image {
   clear: left;
   float: right;
+  height: 300px;
+  width: 500px;
 }
 
 .how to play {
