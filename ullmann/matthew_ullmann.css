@@ -10,7 +10,7 @@ body {
 }
 
 p {
-  margin: 25px;
+  margin: 30px;
   font-size: 20px;
 }
 
@@ -23,7 +23,7 @@ h2 {
   font-weight: bold;
   font-size: 25px;
   text-aligne: left;
-  margin 15px;
+  margin 20px;
 }
   
 .menu-bar {
