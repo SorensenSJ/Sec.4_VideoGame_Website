@@ -160,6 +160,7 @@ body {margin:0;}
 .score {
   color: White;
   text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+  padding-bottom: 30px;
 }
 
 #concp {
