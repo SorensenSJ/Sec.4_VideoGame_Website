@@ -8,6 +8,10 @@
   text-align: center;
   padding: 8px 10px;
   text-decoration: none;
+  font-family: 'Alfa Slab One', cursive;
+  width: auto;
+  margin-top: 8px;
+  
 }
 
 .menu-item a {
