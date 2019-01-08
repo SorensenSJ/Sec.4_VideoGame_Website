@@ -118,3 +118,16 @@ span {
   margin-right: auto;
   width: 30%;
 }
+
+#switch {
+  max-width: 300px;
+  max-height: auto;
+  padding: 20px;
+  border: 10px solid red;
+  border-radius: 30px;
+  margin-top: 10px;
+}
+
+#switch:hover {
+ background-color: red;
+}
