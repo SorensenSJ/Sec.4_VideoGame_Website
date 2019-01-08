@@ -1,13 +1,18 @@
 * {
   font-family: Times New Roman;
   color: #FFF;
+  
+  body {
+  background-image: url(galaxy.jpg);
+  background-size: cover;
+  font-size: 20px;
 }
-
-title h1 {
+  
+h1 {
    
 }
 
-.eight modes {
+.eightmodes {
   height: 50%;
     witdh: 50%;
 }
