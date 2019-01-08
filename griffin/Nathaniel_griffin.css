@@ -52,3 +52,8 @@ background-color : #FFD700;
 .menu_bar{
 font-size: 25px;
 }
+
+.Content {
+  padding-right: 50px;
+  padding-left: 50px;
+}
