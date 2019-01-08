@@ -6,6 +6,10 @@ h1{
   padding-top: 50px;
   padding-left: 650px;
 }
+body{
+background-image:url("https://wallpapercave.com/wp/wp3049110.jpg");
+  background-position:center;
+}
 p{
   font-size:20px;
   color: orange;
