@@ -22,12 +22,13 @@ p {
   font-family: 'Asap', sans-serif;
   color: White;
 }
+
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #101010;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f00;
 }
 
 li {
