@@ -131,3 +131,16 @@ span {
 #switch:hover {
  background-color: red;
 }
+
+#pc {
+  width: 300px;
+  max-height: auto;
+  padding: 20px;
+  border: 10px solid #006C6C;
+  border-radius: 30px;
+  margin-top: 10px;
+}
+
+#pc:hover {
+ background-color: #006C6C;
+}
