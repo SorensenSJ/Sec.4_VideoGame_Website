@@ -9,10 +9,9 @@ background-size : 160% 100%;
 }  
 
 p {
-background-color : black;
+background-color : rgba(0,0,0,0.8);
 color : #1fc217;
 font-size : 24px;
-opacity : 0.8;
 position : relative;
 z-index : -1;
 }
