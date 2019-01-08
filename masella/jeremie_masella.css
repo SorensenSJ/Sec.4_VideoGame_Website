@@ -8,7 +8,10 @@ body {
 }
 
 header {
-    background: #A9A9A9;    
+    background: #A9A9A9; 
+     position: -webkit-sticky;
+     position: sticky;
+     top: 2px;
 }
 
 header:after {
@@ -67,24 +70,24 @@ h3 {font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .w3-round {
-    height: 600px;
-    width: 900px;
+    height: 80%;
+    width: 95%;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
 .BestBuy {
-    height: 550px;
-    width: 900px;
+    height: 80%;
+    width: 95%;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
 .VrPicture {
-    height: 550px;
-    width: 900px;
+    height: 80%;
+    width: 95%;
     display: block;
     margin-left: auto;
     margin-right: auto;
