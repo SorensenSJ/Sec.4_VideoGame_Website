@@ -61,11 +61,6 @@ li a:hover {
   background-color: #111;
 }
 
-#xbox {
-display: inline-block;
-  background-color: #159900;
-}
-
 #logo {
 max-width:50px;
     max-height: auto;
@@ -120,9 +115,9 @@ span {
 }
 
 #switch {
-  max-width: 300px;
+  width: 300px;
   max-height: auto;
-  padding: 20px;
+  padding: 34px 20px;
   border: 10px solid red;
   border-radius: 30px;
   margin-top: 10px;
@@ -143,4 +138,30 @@ span {
 
 #pc:hover {
  background-color: #006C6C;
+}
+
+#Playstation {
+  width: 300px;
+  max-height: auto;
+  padding: 20px;
+  border: 10px solid #0000FF;
+  border-radius: 30px;
+  margin-top: 10px;
+}
+
+#Playstation:hover {
+ background-color: #0000FF;
+}
+
+#xbox {
+  width: 300px;
+  max-height: auto;
+  padding: 20px;
+  border: 10px solid #00CC00;
+  border-radius: 30px;
+  margin-top: 10px;
+}
+
+#xbox:hover {
+ background-color: #00CC00;
 }
