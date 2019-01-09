@@ -131,13 +131,13 @@ span {
   width: 300px;
   max-height: auto;
   padding: 20px;
-  border: 10px solid #006C6C;
+  border: 10px solid #006C88;
   border-radius: 30px;
   margin-top: 10px;
 }
 
 #pc:hover {
- background-color: #006C6C;
+ background-color: #006C88;
 }
 
 #Playstation {
