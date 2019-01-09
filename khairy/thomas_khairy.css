@@ -157,11 +157,11 @@ span {
   width: 300px;
   max-height: auto;
   padding: 20px;
-  border: 10px solid #00CC00;
+  border: 10px solid #159900;
   border-radius: 30px;
   margin-top: 10px;
 }
 
 #xbox:hover {
- background-color: #00CC00;
+ background-color: #159900;
 }
