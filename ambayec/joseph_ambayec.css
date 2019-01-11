@@ -101,7 +101,11 @@ main {
 }
 
 .ReviewText p {
- font-size: 20px; 
+  font-size: 20px; 
+  background-color: #fff;
+  border: 5px;
+  border-style: solid;
+  border-color: #33;
 }
 
 .PCTable th {
@@ -132,7 +136,7 @@ img {
 }
 
 .Screenshots img {
-    padding-top: 52px;
+    margin-top: 52px;
 }
 
 .circle-text {
