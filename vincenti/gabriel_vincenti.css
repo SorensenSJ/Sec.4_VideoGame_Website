@@ -28,6 +28,11 @@ h4 {
   font-size:40px;
 }
 
+h5 {
+  color: #FFF;
+  font-size:40px;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -61,5 +66,9 @@ ol {
 }
 
 .who-is-it-for {
+  width: 300px;
+}
+
+.platforms-available-on {
   width: 300px;
 }
