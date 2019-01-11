@@ -19,6 +19,25 @@ main {
   grid-auto-flow: column;
 }
 
+h1 {
+  font-family: Times New Roman;
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+  text-align: center;
+    color: black;
+  padding: 10px 0px 10px 0px;
+}
+
+h2 {
+  font-family: Times New Roman;
+  font-size: 24x;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+  text-align: center;
+    color: black;
+  padding: 10px 0px 10px 0px;
+
 h2,
 h3,
 h4,
@@ -27,7 +46,7 @@ h6,
 h7,
 h8 {
   font-family: Times New Roman;
-  font-size: 18px;
+  font-size: 21px;
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
@@ -97,3 +116,6 @@ img {
 footer {
   margin-top: 44px;
 }
+
+.menu-item {
+  float: left;
