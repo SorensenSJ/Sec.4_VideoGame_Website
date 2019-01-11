@@ -32,9 +32,11 @@ p {
 }
 
 .logo {
-  margin: auto;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
   width: 60%;
-  padding: 10px;
+  padding-top: 25px;
 }
 
 #fighter {
