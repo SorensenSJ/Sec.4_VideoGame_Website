@@ -4,7 +4,7 @@
 
 p {
   font-family: Georgia;
-  width: 500px;
+  width: 400px;
 }
 
 h1 {
@@ -29,7 +29,15 @@ h3 {
 
 .menu {
   list-style-type: none;
-  overflow: hidden;
+  
+}
+
+.menu item {
+  float: left;
+}
+
+ul {
+  background-color: red;
 }
 
 li {
@@ -38,8 +46,8 @@ li {
 
 li a {
   display: block;
-  text-align: center;
-  background-color: black;
+  text-align: left;
+  padding: 20px;
   color: white;
 }  
 
@@ -64,89 +72,89 @@ li a {
   clear: left;
 }
 
-.game modes {
+.modes {
   font-family: 'Arial Black', sans-serif;
   text-align: left;
   color: white;
   background-color: black;
 }
 
-.the one {
+.one {
   font-family: 'Arial Black', sans-serif;
   text-align: left;
   color: white;
   background-color: black;
 }
 
-.the one text {
+.one text {
   text-align: left;
   font-family: Georgia;
 }
 
-.the one image {
+.one image {
   clear: left;
   float: right;
-  height: 300px;
+  height: auto;
   width: 500px;
 }
 
-.court battles {
+.courtbattles {
   font-family: 'Arial Black', sans-serif;
   text-align: left;
   color: white;
   background-color: black;
 }
 
-.court battles text {
+.courtbattles text {
   text-align: left;
   font-family: Georgia;
 }
 
-.court battles image {
+.courtbattles image {
   clear: left;
   float: right;
-  height: 300px;
+  height: auto;
   width: 500px;
 }
 
-.the league {
+.league {
   font-family: 'Arial Black', sans-serif;
   text-align: left;
   color: white;
   background-color: black;
 }
 
-.the league text {
+.league text {
   text-align: left;
   font-family: Georgia;
 }
 
-.the league image {
+.league image {
   clear: left;
   float: right;
-  height: 300px;
+  height: auto;
   width: 500px;
 }
 
-.the streets {
+.streets {
   font-family: 'Arial Black', sans-serif;
   text-align: left;
   color: white;
   background-color: black;
 }
 
-.the streets text {
+.streets text {
   text-align: left;
   font-family: Georgia;
 }
 
-.the streets image {
+.streets image {
   clear: left;
   float: right;
-  height: 300px;
+  height: auto;
   width: 500px;
 }
 
-.how to play {
+.controls {
   
 }
