@@ -86,12 +86,20 @@ h3 {font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .table1 {
-    margin-left: auto;
+    margin-left: 4% ;
     margin-right: auto;
+    margin-top: 3%;
     font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
     font-size: 20px;
     background-color: #D3D3D3;
+    float: left;
 }
+
+.TableInfo {
+    margin-right:4%;
+    margin-left: 57%;
+}
+
 .VrPicture {
     height: 80%;
     width: 95%;
@@ -161,8 +169,6 @@ h3 {font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
      display: block;
      margin-left: auto;
      margin-right: auto;
-     width: 90%;
-     height: 60%;
 }
 
 footer {
