@@ -26,7 +26,12 @@ header{
   height: 50px;
   text-align: center;
   text-shadow: 3px 3px #333333;
-  
+}
+.gg{
+ height:45px;
+ width:45px;
+  position: relative;
+  left: 700px;
 }
 p{
   font-size: 20px;
@@ -37,4 +42,16 @@ p{
 }
 .awk{
   margin-right:500px;
+}
+.igp{
+  height: 350px;
+  width: 350px;
+  top: -200px;
+}
+.cover{
+  height: 350px;
+  width: 350px;
+  position: relative;
+  top: -600px;
+  left: 800px;
 }
