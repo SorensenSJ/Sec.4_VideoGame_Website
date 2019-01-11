@@ -5,6 +5,8 @@
 p {
   font-family: Georgia;
   width: 400px;
+  color: black;
+  background-color: none;
 }
 
 h1 {
