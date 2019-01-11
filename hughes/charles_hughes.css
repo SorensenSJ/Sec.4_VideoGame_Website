@@ -18,7 +18,14 @@ p {
 }
   
 li .menu-item {
-  
+  text-decoration: none;
+  vertical-align: text-bottom;
+  color: #FFFFFF;
+  font-size: 20px;
+  font-family: 'Times-New-Roman', serif;
+  padding: 15px;
+  display: block;
+  background-color: #514B38;
 }
 
 li {
