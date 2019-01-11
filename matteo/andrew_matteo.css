@@ -6,6 +6,8 @@ body {
   background-image: url(images/robnaldo.jpg);
   background-size: cover;
   font-size: 19px;
+  padding: 40px;
+  margin: 10px;
 }
 
 h1 {
