@@ -16,6 +16,7 @@ p {
   padding: 12px;
   width: 53%;
   background-color: #5F9EA0;
+  display: block;
 }
   
 li {
@@ -26,6 +27,7 @@ li {
   margin: 10px;
   padding: 8px;
   background-color: #5F9EA0;
+  display: block;
   }
   
 h1 {
@@ -35,6 +37,7 @@ h1 {
   font-family: 'Times-New-Roman', serif;
   margin: 10px;
   background-color: #5F9EA0;
+  display: block;
 }
   
 h2 {
@@ -43,11 +46,13 @@ h2 {
   font-family: 'Times-New-Roman', serif;
   margin: 10px;
   background-color: #5F9EA0;
+  display: block;
 }
 
 #classes {
   float: right;
   padding: 20px;
+  width: 
 }
 
 #guild {
@@ -57,6 +62,8 @@ h2 {
   height: auto;
 }
 
+
+  
 
 
 
