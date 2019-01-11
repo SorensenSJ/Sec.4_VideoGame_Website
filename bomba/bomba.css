@@ -118,6 +118,7 @@ body {margin:0;}
   
 #smash_mode {
   background-color: rgba(255,0,0,0.7);
+  padding-bottom: 20px;
 }
   
 #online {
@@ -127,6 +128,7 @@ body {margin:0;}
   
 #online_mode {
   background-color: rgba(255,165,0,0.7);
+  padding-bottom: 20px;
 }
   
 #challenges {
@@ -136,6 +138,7 @@ body {margin:0;}
   
 #challenge_mode {
   background-color: rgba(255,0,255,0.7);
+  padding-bottom: 20px;
 }
   
 #smash_run {
@@ -145,6 +148,7 @@ body {margin:0;}
   
 #smash_run_mode {
   background-color: rgba(41,179,45,0.7);
+  padding-bottom: 20px;
 }
   
 #gamesmore {
@@ -154,6 +158,7 @@ body {margin:0;}
   
 #games_and_more_mode {
   background-color: rgba(0,0,255,0.7);
+  padding-bottom: 20px;
 }
   
 .score {
