@@ -1,9 +1,5 @@
-body { 
-  background: url("./images/unnamed.png") no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+#grad {
+  background-image: radial-gradient(red, yellow, green);
 }
 h1 {
   font-family: Arial;
