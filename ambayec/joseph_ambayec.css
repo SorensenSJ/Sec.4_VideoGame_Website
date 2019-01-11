@@ -12,12 +12,12 @@ li {
 
 div.TitleAuthor h1 {
   color: red;
-  font-size: 25px;
+  font-size: 40px;
 }
 
 div.TitleAuthor h3 {
-  color: black;
-  font-size: 21px;
+  color: #fff;
+  font-size: 35px;
 }
 
 
@@ -72,6 +72,7 @@ a.active {
     padding: 8px 0;
     border-style: solid;
     border-width: 5px;
+    border-color: #333;
 }
 
 
@@ -105,8 +106,14 @@ main {
 
 .PCTable th {
   font-size: 25px;
+  background-color: #eee;
 }
 
+.PCTable tr {
+  background-color: #eee; 
+  border: 5px;
+  border-style: solid;
+}
 
 .PCTable ul {
  font-size: 20px;
@@ -117,6 +124,11 @@ main {
   padding-left: 360px;
 }
 
+img {
+    border: 5px;
+    border-style: solid;
+    border-color: #fff;
+}
 
 .Screenshots img {
     padding-top: 52px;
@@ -157,6 +169,11 @@ footer a {
 }
 
 body {
-  background-image: url(./z3ebQvI.png)
+  background-image: url(./1e647ade16dfef17242e57a88aaf3cbd.jpg)
 }
 
+p.ReviewText {
+ border: 5px;
+ border-style: solid;
+ background-color: #eee;
+}
