@@ -1,9 +1,10 @@
 * {
   font-family: Times New Roman;
   color: #FFF;
+}
   
   body {
-  background-image: url(./galaxy.jpg);
+  background-image:(./galaxy.jpg)
   background-size: cover;
   font-size: 20px;
 }
@@ -14,7 +15,7 @@ h1 {
 
 .multiplemodes {
   height: 50%;
-    witdh: 50%;
+    width: 50%;
 }
   
   .title {
