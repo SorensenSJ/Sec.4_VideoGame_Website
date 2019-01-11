@@ -51,6 +51,7 @@ h5 {
 .NavigationalBar {
  width: 2560px;
  position: fixed;
+  top: -0px;
  max-height: 85px;
   display:block;
 }
