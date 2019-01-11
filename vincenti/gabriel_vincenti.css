@@ -78,8 +78,10 @@ ol {
 }
 
 div {
-  background-color: white;
+  color: #FFF;
+  font-size:20px;
+  background-color: black;
   width: 300px;
   border: 5px solid white;
-  padding: 23px;
+  padding: 20px;
 }
