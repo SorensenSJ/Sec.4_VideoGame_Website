@@ -18,7 +18,13 @@ h2 {
   margin-right: auto;
 }
 
-.vid {
+.vid1 {
+  display: block;
+  margin: 0 auto;
+  padding-left: 50px; 
+}
+
+.vid2 {
   display: block;
   margin: 0 auto;
 }
