@@ -15,10 +15,8 @@ li {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .shanghai {
-  height: 30%;
-  width: 30%;
-  position: absolute;
-  top: 910px; right:0px;
+  height: 55%;
+  width:65%;
 }
 .home {
  height: 7.5%; 
@@ -30,4 +28,28 @@ li {
 .next {
   height: 7.5%;
   width: 4%;
+}
+.list {
+  display: grid;
+  border:  2px gray solid;
+  width:  25%;
+  height: 170px;
+}
+.gallery {
+  display: grid;
+  border:  2px gray solid;
+  height: 500px;
+  width: 900px;
+}
+.futsal {
+  height: 55%;
+  width: 65%;
+}
+.park {
+  height: 55%;
+  width: 65%;
+}
+.aberdeen {
+  height: 55%;
+  width: 65%;
 }
