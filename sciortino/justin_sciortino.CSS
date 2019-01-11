@@ -17,27 +17,27 @@ p{
   margin-left: 300px;
   margin-right: 300px;
 }
-h3{
+h2{
   font-size:30px;
     color: orange;
   margin-left: 595px;
   margin-right: 570px;
 }
-h4{
+h3{
   font-size:30px;
     color: orange;
     text-align:center;
    margin-left: 595px;
   margin-right: 570px;
 }
-h5 {
+h4 {
   font-size:30px;
   color: orange;
   text-align:center;
    margin-left: 595px;
   margin-right: 570px;
 }
-h6 {
+h5 {
   font-size:30px;
   color: orange;
   text-align:center;
@@ -74,7 +74,7 @@ div.NavigationalBar li {
   padding: 16px 18px;
   text-decoration: none;
 }
-h7{
+h6{
 font-size:20px;
   color: orange;
   text-align:center;
