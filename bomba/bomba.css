@@ -32,10 +32,9 @@ p {
 }
 
 .logo {
-  display: inline-block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%;
+  display: block;
   padding-top: 75px;
 }
 
@@ -95,7 +94,7 @@ body {margin:0;}
 .center { 
   margin-left: auto;
   margin-right: auto;
-  display: block
+  display: block;
 }
 
 .intro {
