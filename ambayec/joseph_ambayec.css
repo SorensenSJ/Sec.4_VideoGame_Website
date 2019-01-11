@@ -109,7 +109,7 @@ main {
   background-color: #eee;
 }
 
-.PCTable tr {
+.PCTable table {
   background-color: #eee; 
   border: 5px;
   border-style: solid;
