@@ -122,6 +122,7 @@ span {
   border: 10px solid red;
   border-radius: 30px;
   margin-top: 10px;
+  background-color: #000;
 }
 
 #switch:hover {
@@ -135,6 +136,7 @@ span {
   border: 10px solid #006C88;
   border-radius: 30px;
   margin-top: 10px;
+  background-color: #000;
 }
 
 #pc:hover {
@@ -148,6 +150,7 @@ span {
   border: 10px solid #0000FF;
   border-radius: 30px;
   margin-top: 10px;
+  background-color: #000;
 }
 
 #Playstation:hover {
@@ -161,6 +164,7 @@ span {
   border: 10px solid #159900;
   border-radius: 30px;
   margin-top: 10px;
+  background-color: #000;
 }
 
 #xbox:hover {
