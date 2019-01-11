@@ -43,3 +43,19 @@ li a {
 li a:hover {
   background-color: #111;
 }
+
+body {
+  background-image: background-image: url(images/robnaldo.jpg);
+  background-color: #cccccc; 
+  height: 500px; 
+  background-position: center; 
+  background-repeat: y; 
+  background-size: cover; 
+}
+
+div {
+  width: 900px;
+  border: 5px solid #ff0087;
+  padding: 25px;
+  margin: 25px;
+}
