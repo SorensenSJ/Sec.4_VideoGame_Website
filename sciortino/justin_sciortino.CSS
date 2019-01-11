@@ -17,27 +17,27 @@ p{
   margin-left: 300px;
   margin-right: 300px;
 }
-h2{
+h3{
   font-size:30px;
     color: orange;
   margin-left: 595px;
   margin-right: 570px;
 }
-h3{
+h4{
   font-size:30px;
     color: orange;
     text-align:center;
    margin-left: 595px;
   margin-right: 570px;
 }
-h4 {
+h5 {
   font-size:30px;
   color: orange;
   text-align:center;
    margin-left: 595px;
   margin-right: 570px;
 }
-h5 {
+h6 {
   font-size:30px;
   color: orange;
   text-align:center;
@@ -74,7 +74,7 @@ div.NavigationalBar li {
   padding: 16px 18px;
   text-decoration: none;
 }
-h6{
+h7{
 font-size:20px;
   color: orange;
   text-align:center;
@@ -206,4 +206,41 @@ font-size:20px;
 #table {
   margin-right: 450px;
   margin-left: 450px;
+}
+.asidenav {
+    width: 130px;
+    position: fixed;
+    z-index: 1;
+    top: 50px;
+    left: 8px;
+    background: #eee;
+    overflow-x: hidden;
+    padding: 8px 0;
+    border-style: solid;
+    border-width: 5px;
+}
+
+
+.asidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 15px;
+    list-style-type: none;
+    color: #2197F3;
+    display: block;
+}
+
+.asidenav h2{
+  text-align: center;
+  color: #1d2026;
+}
+
+main {
+    margin-left: 140px;
+    margin-right: 140px;
+    padding: 0px 10px;
+}
+
+.asidenav ul{
+ padding: 0px;
 }
