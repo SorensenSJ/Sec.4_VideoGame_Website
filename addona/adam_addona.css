@@ -14,7 +14,7 @@ h3 {
   text-align: Left;
   color: White;
 }
-.What_the_game_is_about {
+.content {
   text-align: center;
   padding: 30px 15px;
   
@@ -49,13 +49,18 @@ text-decoration : none;
 li a:hover {
 background-color : #0B0101;
 }
-.iframe {
+.video {
   display: block;
   margin: 0 auto;
+  text allign: center;
 }
-.img {
+.wildlife {
   float: right;
   padding: 35px;
   margin: 20px;
+  text allign: center;
+}
+.characters {
+  text allign: center;
 }
 
