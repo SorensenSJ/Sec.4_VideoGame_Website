@@ -169,6 +169,8 @@ h3 {font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
      display: block;
      margin-left: auto;
      margin-right: auto;
+     width: 90%;
+     height: 60%;
 }
 
 footer {
