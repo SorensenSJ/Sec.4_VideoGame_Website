@@ -50,11 +50,8 @@ li a:hover {
 background-color : #0B0101;
 }
 .iframe {
-position: -webkit-sticky;
-position: sticky;
-top: 20px;
-  bording: 20px;
-  padding: 20px;
+  display: block;
+  margin: 0 auto;
 }
 .img {
   float: right;
