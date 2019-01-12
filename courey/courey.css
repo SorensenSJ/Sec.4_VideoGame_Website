@@ -97,7 +97,9 @@ width : 100%;
 }
 
 .score p{
+display: inline-block;
 font-size : 40px;
-background-color : transparent;
-text-align : center;
+margin-left: 25%;
+margin-right: 25%;
+text-align: center;
 }
