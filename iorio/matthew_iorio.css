@@ -31,19 +31,64 @@ h1 {
 
 h2 {
   font-family: Times New Roman;
-  font-size: 24x;
+  font-size: 24px;
   font-weight: 600;
   letter-spacing: 0.4px;
   text-align: center;
     color: black;
   padding: 10px 0px 10px 0px;
   
-h3,
-h4,
-h5,
-h6,
-h7,
-h8 {
+h3 {
+  font-family: Times New Roman;
+  font-size: 21px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  text-align: left;
+  color: black;
+  padding: 10px 0px 10px 10px;
+}
+  
+  h4 {
+    font-family: Times New Roman;
+  font-size: 21px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  text-align: left;
+  color: black;
+  padding: 10px 0px 10px 10px;
+}
+  
+  h5 {
+    font-family: Times New Roman;
+  font-size: 21px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  text-align: left;
+  color: black;
+  padding: 10px 0px 10px 10px;
+}
+  
+  h6 {
+    font-family: Times New Roman;
+  font-size: 21px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  text-align: left;
+  color: black;
+  padding: 10px 0px 10px 10px;
+}
+  
+  h7 {
+    font-family: Times New Roman;
+  font-size: 21px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  text-align: left;
+  color: black;
+  padding: 10px 0px 10px 10px;
+}
+  
+ h8 {
   font-family: Times New Roman;
   font-size: 21px;
   font-weight: 600;
