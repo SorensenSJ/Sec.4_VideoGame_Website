@@ -10,6 +10,9 @@ background-size : 160% 100%;
 
 p {
 background-color : rgba(25,25,25,0.8);
+border-color: #5c5a59;
+border-style: double;
+border-width: 5px;
 color : #1fc217;
 font-size : 24px;
 padding: 13px;
