@@ -79,7 +79,7 @@ overflow : hidden;
 background-color : #666;
 }
 
-li {
+header li, footer li {
 float : left;
 }
 
@@ -95,10 +95,14 @@ li a:hover {
 background-color : #3da360;
 }
   
-.header {
+header {
 display : block;
 color : white;
 text-align : center;
 padding : 20px;
 text-decoration : none;
+}
+
+iframe {
+  text-align: center;
 }
