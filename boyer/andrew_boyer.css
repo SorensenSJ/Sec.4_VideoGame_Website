@@ -1,8 +1,9 @@
 body {
-  background-image: url(./baby peng.jpg);
+  background-image: (image/baby peng.jpg);
 }
  
-.checked {
-  color: orange;
-}
-
+p {
+  color: black;
+  font-family: Times New Roman, serif;
+  font-size: 20px;
+} 
