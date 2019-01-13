@@ -7,7 +7,7 @@ box-sizing: border-box;
 }
 
 * {
-line-height: 1.6;
+line-height: 2.0;
 }
 
 body { 
@@ -112,11 +112,13 @@ body {margin:0;}
 }
 
 #introp {
-  background-color: rgba(255,255,255,0.5);
+  background-color: rgba(0,0,0,0.8);
   padding-bottom: 50px;
   padding-top: 50px;
   border-style: double;
   border-width: 7px;
+  color: White;
+  text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
   
 #smash {
@@ -128,6 +130,8 @@ body {margin:0;}
   background-color: rgba(255,0,0,0.7);
   border-style: double;
   border-width: 7px;
+  color: White;
+  text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
   
 #online {
@@ -140,6 +144,8 @@ body {margin:0;}
   background-color: rgba(255,165,0,0.7);
   border-style: double;
   border-width: 7px;
+  color: White;
+  text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
   
 #challenges {
@@ -152,6 +158,8 @@ body {margin:0;}
   background-color: rgba(255,0,255,0.7);
   border-style: double;
   border-width: 7px;
+  color: White;
+  text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
   
 #smash_run {
@@ -164,6 +172,8 @@ body {margin:0;}
   background-color: rgba(41,179,45,0.7);
   border-style: double;
   border-width: 7px;
+  color: White;
+  text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
   
 #gamesmore {
@@ -176,6 +186,8 @@ body {margin:0;}
   background-color: rgba(0,0,255,0.7);
   border-style: double;
   border-width: 7px;
+  color: White;
+  text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
   
 .score {
@@ -186,8 +198,11 @@ body {margin:0;}
 }
 
 #concp {
-  background-color: rgba(255,255,255,0.5);
+  background-color: rgba(0,0,0,0.8);
   border-width: 7px;
+  border-style: double;
+  color: White;
+  text-shadow: 3px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
 
 #liststitle {
