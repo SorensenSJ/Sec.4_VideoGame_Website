@@ -1,32 +1,30 @@
 * {
-  font-family: 'Arial Black';
+  font-family: 'Fredoka One';
 }
 
 p {
-  font-family: Georgia;
+  font-family: 'Fredoka One', cursive;
   width: 400px;
-  color: black;
-  background-color: none;
+  color: white;
+  background-color: black;
 }
 
 h1 {
-  font-family: 'Arial Black', sans-serif;
+  font-family: 'Fredoka One', sans-serif;
   text-align: center;
   font-weight: bold;
 }
 
 h2 {
-  font-family: 'Arial Black', sans-serif;
+  font-family: 'Fredoka One', sans-serif;
   text-align: left;
-  color: white;
-  background-color: black;
+  color: black;
 }
 
 h3 {
-  font-family: 'Arial Black', sans-serif;
+  font-family: 'Fredoka One', sans-serif;
   text-align: left;
-  color: white;
-  background-color: black;
+  color: black;
 }
 
 .menu {
@@ -63,13 +61,12 @@ li a {
 
 .title {
   text-align: center;
-  color: white;
-  background-color: black;
+  color: black;
 }
 
 .review text{
   text-align: left;
-  font-family: Georgia;
+  font-family: 'Fredoka One';
 }
 
 .rating {
@@ -83,88 +80,78 @@ li a {
 }
 
 .modes {
-  font-family: 'Arial Black', sans-serif;
   text-align: left;
-  color: white;
-  background-color: black;
+  color: black;
 }
 
 .one {
-  font-family: 'Arial Black', sans-serif;
   text-align: left;
-  color: white;
-  background-color: black;
+  color: black;
 }
 
 .one text {
   text-align: left;
-  font-family: Georgia;
+  
 }
 
 .one image {
   clear: left;
   float: right;
   height: auto;
-  width: 500px;
+  width: 400px;
 }
 
 .courtbattles {
-  font-family: 'Arial Black', sans-serif;
   text-align: left;
-  color: white;
-  background-color: black;
+  color: black;
 }
 
 .courtbattles text {
   text-align: left;
-  font-family: Georgia;
 }
 
 .courtbattles image {
   clear: left;
   float: right;
   height: auto;
-  width: 500px;
+  width: 400px;
 }
 
 .league {
-  font-family: 'Arial Black', sans-serif;
+  font-family: 'Fredoka One', sans-serif;
   text-align: left;
-  color: white;
-  background-color: black;
+  color: black;
 }
 
 .league text {
   text-align: left;
-  font-family: Georgia;
 }
 
 .league image {
   clear: left;
   float: right;
   height: auto;
-  width: 500px;
+  width: 400px;
 }
 
 .streets {
-  font-family: 'Arial Black', sans-serif;
+  font-family: 'Fredoka One', sans-serif;
   text-align: left;
-  color: white;
-  background-color: black;
+  color: black;
 }
 
 .streets text {
   text-align: left;
-  font-family: Georgia;
+  font-family: 'Fredoka One';
 }
 
 .streets image {
   clear: left;
   float: right;
   height: auto;
-  width: 500px;
+  width: 400px;
 }
 
-.controls {
-  
+.table {
+  border: 1px solid black;
 }
