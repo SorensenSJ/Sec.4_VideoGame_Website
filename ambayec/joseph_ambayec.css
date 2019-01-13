@@ -11,12 +11,12 @@ li {
 }
 
 div.TitleAuthor h1 {
-  color: red;
+  color: #34d813;
   font-size: 40px;
 }
 
 div.TitleAuthor h3 {
-  color: #fff;
+  color: #34d813;
   font-size: 35px;
 }
 
@@ -164,6 +164,7 @@ img {
 footer {
   position: relative;
   bottom: -50px;
+  color: white;
 }
 
 
@@ -171,6 +172,7 @@ footer {
 footer a {
   left: -40px;
   position: relative;
+  color: white;
 }
 
 body {
