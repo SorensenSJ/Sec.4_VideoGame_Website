@@ -39,12 +39,14 @@ header{
   height: 50px;
   text-align: center;
   text-shadow: 3px 3px #333333;
+  z-index:999;
 }
 .gg{
  height:45px;
  width:45px;
-  position: relative;
-  left: 0px;
+  position: fixed;
+  margin-right:450px;
+  z-index:1000;
 }
 p{
   font-size: 20px;
@@ -61,13 +63,13 @@ p{
   width: 350px;
   top: -200px;
   position:relative;
-  top: -300px;
-  left: 250px;
+  top: -400px;
+  left: 625px;
 }
 .cover{
   height: 350px;
   width: 350px;
   position: relative;
   top: -650px;
-  left: 600px;
+  left: 625px;
 }
