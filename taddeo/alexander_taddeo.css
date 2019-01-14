@@ -1,1 +1,67 @@
-yuh
+h1{
+  color: #D3D3D3;
+  font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serifDidot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", seriffancy;
+  background: #FFFFFF url("https://pbs.twimg.com/media/DTVxppUWkAAs-Nq.jpg") no-repeat fixed center;
+  max-width: 2000px;
+  height: 750px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  line-height: 1350px;
+  text-align: left;
+  background-size: cover;
+  font-size: 100px;
+}
+#back:hover{
+  background-color: beige;
+}
+#home:hover{
+  background-color: beige;
+}
+#next:hover{
+  background-color: beige;
+}
+
+  h4{
+  text-align: left;
+  color: #D3D3D3;
+  position: relative;
+  top: -50px;
+  left: 10px;
+}
+header{
+  background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/Nu2DDaj5gikp4kjij/fly-through-outer-space-nebula-and-stars-animated-background_scybrqakl_thumbnail-full11.png");
+  font-size: 25px;
+  color: white;
+  height: 50px;
+  text-align: center;
+  text-shadow: 3px 3px #333333;
+}
+.gg{
+ height:45px;
+ width:45px;
+  position: relative;
+  left: 700px;
+}
+p{
+  font-size: 20px;
+}
+.gendes{
+  background: #FFFFFF url("http://www.bruna.cat/imgdownload/full/70/709757/latest-guns-wallpapers.jpg") no-repeat;
+   color: white;
+}
+.awk{
+  margin-right:500px;
+}
+.igp{
+  height: 350px;
+  width: 350px;
+  top: -200px;
+}
+.cover{
+  height: 350px;
+  width: 350px;
+  position: relative;
+  top: -600px;
+  left: 800px;
+}
