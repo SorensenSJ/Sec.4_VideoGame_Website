@@ -9,15 +9,21 @@ html {
 li {
     list-style-type: none;
 }
-
+div.TitleAuthor {
+   margin-left: 240px; 
+}
 div.TitleAuthor h1 {
   color: #34d813;
   font-size: 40px;
+  margin-bottom: -37px;
+  margin-left: 60px;
 }
 
 div.TitleAuthor h3 {
   color: #34d813;
   font-size: 35px;
+  font-size: 35px;
+  margin-left: 105px;
 }
 
 
@@ -102,10 +108,11 @@ main {
 
 .ReviewText p {
   font-size: 20px; 
-  background-color: #fff;
   border: 5px;
   border-style: solid;
+  background-color: #eee;
   border-color: #333;
+  width: 1285px;
 }
 
 .PCTable th {
@@ -179,9 +186,19 @@ body {
   background-image: url(./1e647ade16dfef17242e57a88aaf3cbd.jpg)
 }
 
-p.ReviewText {
- border: 5px;
- border-style: solid;
- background-color: #eee;
- border-color: #333;
+
+
+#paddingleftli {
+  padding-left: 0px;
+  padding-right: 40px;
 }
+
+.Screenshots {
+  margin-left: 220px; 
+}
+
+
+
+
+
+
