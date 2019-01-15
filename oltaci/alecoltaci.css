@@ -1,18 +1,18 @@
 h1 {
-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;  
+font-family: "Helvetica Neue", sans-serif;  
 }
 h2 {
-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-family: "Helvetica Neue", sans-serif;
 }
 p {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", sans-serif;
   margin-right: 270px;
   padding-right: 200px;
   letter-spacing:1px;
   
 }
 li {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", sans-serif;
 }
 .shanghai {
   height: 55%;
