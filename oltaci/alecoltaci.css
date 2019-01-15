@@ -15,8 +15,8 @@ li {
   font-family: "Helvetica Neue", sans-serif;
 }
 .shanghai {
-  height: 55%;
-  width:65%;
+  height: 360px;
+  width: 562px;
 }
 .home {
  height: 7.5%; 
@@ -38,18 +38,32 @@ li {
 .gallery {
   display: grid;
   border:  2px gray solid;
-  height: 500px;
-  width: 900px;
+  height: 400px;
+  width: 600px;
+  overflow: scroll;
 }
 .futsal {
-  height: 55%;
-  width: 65%;
+  height: 360px;
+  width: 562px;
 }
 .park {
-  height: 55%;
-  width: 65%;
+  height: 360px;
+  width: 562px;
 }
 .aberdeen {
-  height: 55%;
-  width: 65%;
+  height: 360px;
+  width: 562px;
+}
+.previous {
+  font-family: "Helvetica Neue", sans-serif;
+}
+.menu {
+  font-family: "Helvetica Neue", sans-serif;
+}
+.next {
+  font-family: "Helvetica Neue", sans-serif;
+}
+.cover pic {
+  height: 50px;
+  width: 50px;
 }
