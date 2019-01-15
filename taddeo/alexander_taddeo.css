@@ -27,16 +27,17 @@ position: fixed
     #home{
       position :fixed;
       top: 0px;
-      left: 0px;
+      left: 50px;
 }
 #home:hover{
   background-color: beige;
   position: fixed
+    left: 200px;
 }
 #next{
   position :fixed;
       top: 0px;
-      left: 0px;
+      left: 350px;
 }
 #next:hover{
   background-color: beige;
@@ -85,5 +86,5 @@ p{
   width: 350px;
   position: relative;
   top: -655px;
-  left: 625px;
+  left: 650px;
 }
