@@ -8,8 +8,19 @@ body{
 }
 
 p{
-  colour: #000000
+  colour: black;
     font-size: 12 px
     font-family: 'Calibri', sans-serif;
-     background-colour:red;
+}
+
+h1 {
+  color: black;
+}
+
+h2 {
+  color: blue;
+}
+
+h3 {
+  color: red;
 }
