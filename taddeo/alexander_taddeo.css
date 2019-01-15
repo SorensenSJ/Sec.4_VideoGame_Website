@@ -16,21 +16,27 @@ header{
   position:fixed;
 }
 #back{
-  margin-right:100px;
+  position :fixed;
+      top: 0px;
+      left: 0px;
 }
 #back:hover{
   background-color: beige;
 position: fixed
 }
     #home{
-      margin-right:250px;    
+      position :fixed;
+      top: 0px;
+      left: 0px;
 }
 #home:hover{
   background-color: beige;
   position: fixed
 }
 #next{
-  margin-right:400px;
+  position :fixed;
+      top: 0px;
+      left: 0px;
 }
 #next:hover{
   background-color: beige;
@@ -72,7 +78,7 @@ p{
   width: 350px;
   position:relative;
   top: -400px;
-  left: 1000px;
+  left: 1100px;
 }
 .cover{
   height: 300px;
