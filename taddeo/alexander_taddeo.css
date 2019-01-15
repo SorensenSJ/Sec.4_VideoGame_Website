@@ -15,23 +15,26 @@ h1{
 header{
   position:fixed;
 }
+#back{
+  margin-right:100px;
+}
 #back:hover{
   background-color: beige;
 position: fixed
-    top: 0px;
-  left: 0px:
+}
+    #home{
+      margin-right:250px;    
 }
 #home:hover{
   background-color: beige;
   position: fixed
-    top: 0px;
-  left: 0px:
+}
+#next{
+  margin-right:400px;
 }
 #next:hover{
   background-color: beige;
   position: fixed
-    top: 0px;
-  left: 0px:
 }
 
   h4{
