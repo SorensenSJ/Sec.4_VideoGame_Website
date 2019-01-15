@@ -72,7 +72,7 @@ li a {
   float: center;
 }
 
-.review text{
+.review-text{
   text-align: left;
   font-family: 'Fredoka One';
 }
@@ -96,27 +96,26 @@ li a {
   color: black;
 }
 
-.one text {
+.one-text {
   text-align: left;
   
 }
 
-.one image {
-  max-width:300px;
-  max-height: auto;
+.one-image {
   float: right;
-  margin: 20px;
+  height: auto;
+  width: 400px;
 }
 
 .courtbattles {
   color: black;
 }
 
-.courtbattles text {
+.courtbattles-text {
   text-align: left;
 }
 
-.courtbattles image {
+.courtbattles-image {
   float: right;
   height: auto;
   width: 400px;
@@ -127,11 +126,11 @@ li a {
   color: black;
 }
 
-.league text {
+.league-text {
   text-align: left;
 }
 
-.league image {
+.league-image {
   float: right;
   height: auto;
   width: 400px;
@@ -142,15 +141,19 @@ li a {
   color: black;
 }
 
-.streets text {
+.streets-text {
   text-align: left;
   font-family: 'Fredoka One';
 }
 
-.streets image {
+.streets-image {
   float: right;
   height: auto;
   width: 400px;
+}
+
+table {
+  border-collapse: collapse;
 }
 
 table, th, td  {
