@@ -99,10 +99,10 @@ li a {
 }
 
 .one image {
-  clear: left;
+  max-width:300px;
+  max-height: auto;
   float: right;
-  height: auto;
-  width: 400px;
+  margin: 20px;
 }
 
 .courtbattles {
