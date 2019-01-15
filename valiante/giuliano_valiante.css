@@ -89,7 +89,6 @@ li a {
 }
 
 .one {
-  text-align: left;
   color: black;
 }
 
@@ -106,7 +105,6 @@ li a {
 }
 
 .courtbattles {
-  text-align: left;
   color: black;
 }
 
@@ -115,7 +113,6 @@ li a {
 }
 
 .courtbattles image {
-  clear: left;
   float: right;
   height: auto;
   width: 400px;
@@ -123,7 +120,6 @@ li a {
 
 .league {
   font-family: 'Fredoka One', sans-serif;
-  text-align: left;
   color: black;
 }
 
@@ -132,7 +128,6 @@ li a {
 }
 
 .league image {
-  clear: left;
   float: right;
   height: auto;
   width: 400px;
@@ -140,7 +135,6 @@ li a {
 
 .streets {
   font-family: 'Fredoka One', sans-serif;
-  text-align: left;
   color: black;
 }
 
@@ -150,7 +144,6 @@ li a {
 }
 
 .streets image {
-  clear: left;
   float: right;
   height: auto;
   width: 400px;
@@ -158,4 +151,5 @@ li a {
 
 .table {
   border: 1px solid black;
+  background-color: white;
 }
