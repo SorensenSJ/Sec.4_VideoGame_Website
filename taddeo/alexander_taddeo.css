@@ -20,6 +20,7 @@ header{
   position :fixed;
       top: 0px;
       left: 0px;
+  z-index: 9999;
 }
 #back:hover{
   background-color: beige;
@@ -33,12 +34,12 @@ position: fixed
 #home:hover{
   background-color: beige;
   position: fixed
-    left: 200px;
+    left: 50px;
 }
 #next{
   position :fixed;
       top: 0px;
-      left: 350px;
+      left: 100px;
 }
 #next:hover{
   background-color: beige;
