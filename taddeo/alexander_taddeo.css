@@ -38,21 +38,18 @@ header{
   color: white;
   height: 50px;
   text-align: center;
-  text-shadow: 3px 3px #333333;
-  z-index:9999;
+  text-shadow: 5px 5px #333333;
 }
 .gg{
  height:45px;
  width:45px;
   position: fixed;
-  margin-left:400px;
-  z-index:10000;
 }
 p{
   font-size: 20px;
 }
 .gendes{
-  background: #FFFFFF url("http://www.bruna.cat/imgdownload/full/70/709757/latest-guns-wallpapers.jpg") no-repeat;
+  background: #FFFFFF url("http://www.bruna.cat/imgdownload/full/70/709757/latest-guns-wallpapers.jpg") repeat;
    color: white;
 }
 .awk{
@@ -63,12 +60,12 @@ p{
   width: 350px;
   position:relative;
   top: -400px;
-  left: 650px;
+  left: 750px;
 }
 .cover{
   height: 350px;
   width: 350px;
   position: relative;
-  top: -650px;
+  top: -655px;
   left: 625px;
 }
