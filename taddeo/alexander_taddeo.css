@@ -17,12 +17,21 @@ header{
 }
 #back:hover{
   background-color: beige;
+position: fixed
+    top: 0px;
+  left: 0px:
 }
 #home:hover{
   background-color: beige;
+  position: fixed
+    top: 0px;
+  left: 0px:
 }
 #next:hover{
   background-color: beige;
+  position: fixed
+    top: 0px;
+  left: 0px:
 }
 
   h4{
@@ -60,10 +69,10 @@ p{
   width: 350px;
   position:relative;
   top: -400px;
-  left: 750px;
+  left: 900px;
 }
 .cover{
-  height: 350px;
+  height: 300px;
   width: 350px;
   position: relative;
   top: -655px;
