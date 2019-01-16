@@ -17,7 +17,7 @@ p {
   width: 53%;
 }
   
-li .menu-item {
+.menu-item {
   text-decoration: none;
   vertical-align: text-bottom;
   color: #FFFFFF;
