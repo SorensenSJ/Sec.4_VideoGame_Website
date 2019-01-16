@@ -167,3 +167,10 @@ footer {
   text-align: center;
   text-decoration: none;
   font-size : 25px;
+  
+  .menu-bar {
+  display: block;
+  float: left;
+  text-align: center;
+  text-decoration: none;
+  font-size : 25px;
