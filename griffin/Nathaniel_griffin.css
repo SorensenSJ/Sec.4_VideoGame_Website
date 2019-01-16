@@ -60,6 +60,5 @@ font-size: 25px;
 }
 
 .Content {
-  padding-right: 200px;
-  padding-left: 200px;
+  padding: 200px;
 }
