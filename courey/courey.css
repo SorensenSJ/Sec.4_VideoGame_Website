@@ -96,9 +96,12 @@ position : fixed;
 width : 100%;
 }
 
+.score {
+margin-left: 25%;  
+}
+
 .score p{
 display: inline-block;
 font-size : 40px;
-left: 37%;
 text-align: center;
 }
