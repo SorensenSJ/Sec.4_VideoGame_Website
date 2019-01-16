@@ -18,12 +18,14 @@ header{
 }
 footer{
 background: #FFFFFF url("https://raw.githubusercontent.com/SorensenSJ/Sec.4_VideoGame_Website/master/taddeo/images/starspace.png") no-repeat fixed center;
+text-color:white;
 }
 #back{
   position :fixed;
       top: 0px;
       left: 0px;
   z-index: 999;
+  visibility: visible;
 }
 #back:hover{
   background-color: beige;
