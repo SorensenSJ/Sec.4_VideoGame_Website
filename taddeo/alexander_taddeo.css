@@ -64,7 +64,6 @@ header{
   color: white;
   height: 55px;
   text-align: center;
-  image-shadow: 5px 5px #333333;
 }
 .gg{
  height:45px;
@@ -80,7 +79,7 @@ p{
    color: white;
   border: 50px;
   border-style: outset;
-  border-color: beige;
+  border-color: 4d4d4d;
 }
 .awk{
   margin-right:500px;
