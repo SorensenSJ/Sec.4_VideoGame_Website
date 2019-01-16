@@ -17,14 +17,17 @@ h3 {
 .Intro {
   text-align: left;
   background-color: green;
+  font-size: 20px;
 }
 .Different_Categories {
   text-align: left;
   background-color: #E553EA
+  font-size: 20px;
 }
 .How_to_Play {
   text-align: left;
   background-color: #68BBF2;
+  font-size: 20px;
 p {
   font-family: 'Asap', sans-serif;
 }
