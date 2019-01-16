@@ -24,17 +24,6 @@ li {
   height: 360px;
   width: 562px;
 }
-.home {
- height: 7.5%; 
-}
-.back {
-  height: 7%;
-  width: 4%;
-}
-.next {
-  height: 7.5%;
-  width: 4%;
-}
 .list {
   display: grid;
   border:  2px gray solid;
@@ -52,7 +41,7 @@ li {
   height: 360px;
   width: 562px;
 }
-.park {
+.aberdeen {
   height: 360px;
   width: 562px;
 }
@@ -69,7 +58,9 @@ li {
 .next {
   font-family: "Helvetica Neue", sans-serif;
 }
-.cover pic {
-  height: 50px;
-  width: 50px;
+.coverpic {
+  height: 315px;
+  width: 260px;
+  padding: 2px 2px 2px 2px;
+  border: 2px solid gray;
 }
