@@ -70,6 +70,7 @@ header{
  height:45px;
  width:45px;
   position: fixed;
+  display: inline;
 }
 p{
   font-size: 20px;
