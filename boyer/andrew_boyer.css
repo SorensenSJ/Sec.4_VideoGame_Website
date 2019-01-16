@@ -1,6 +1,6 @@
 body {
   background-image: url("../boyer/images/baby peng.jpg");
-  background-repeat: repeat-y;
+  background-attachment: fixed;
   background-size: contain; 
 }
  
