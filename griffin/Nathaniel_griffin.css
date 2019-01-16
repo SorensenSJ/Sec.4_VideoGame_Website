@@ -2,6 +2,7 @@ body{
   background-color: #FFD700;
 }
 h1 {
+  text-align: center;
   font-family: Arial;
   color: white;
 }
@@ -14,20 +15,16 @@ h3 {
   color: white;
 }
 .Intro {
-  text-align: center;
+  text-align: left;
   background-color: green;
 }
 .Different_Categories {
-  text-align: center;
+  text-align: left;
   background-color: #E553EA
 }
 .How_to_Play {
-  text-align: center;
+  text-align: left;
   background-color: #68BBF2;
-}
-.main-list {
-  text-align: center;
-}
 p {
   font-family: 'Asap', sans-serif;
 }
