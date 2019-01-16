@@ -2,6 +2,8 @@
 #Logo {
   height: 500px;
   width: 500px;
+  margin: 20px;
+  vertical-align: middle;
 }
 
 #Phara {
