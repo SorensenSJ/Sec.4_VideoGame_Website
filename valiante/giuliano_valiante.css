@@ -85,6 +85,7 @@ li a {
 }
 
 .trailer {
+  margin-right: 10px;
 }
 
 .modes {
@@ -102,6 +103,7 @@ li a {
 }
 
 .one-image {
+  margin-right: 20px;
   float: right;
   height: auto;
   width: 400px;
@@ -116,6 +118,7 @@ li a {
 }
 
 .courtbattles-image {
+  margin-right: 20px;
   float: right;
   height: auto;
   width: 400px;
@@ -131,6 +134,7 @@ li a {
 }
 
 .league-image {
+  margin-right: 20px;
   float: right;
   height: auto;
   width: 400px;
@@ -147,6 +151,7 @@ li a {
 }
 
 .streets-image {
+  margin-right: 20px;
   float: right;
   height: auto;
   width: 400px;
