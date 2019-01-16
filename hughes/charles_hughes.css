@@ -25,7 +25,8 @@ p {
   font-family: 'Times-New-Roman', serif;
   padding: 15px;
   display: block;
-  background-color: #514B38;
+  background-color: #B00C0C;
+  float: left;
 }
 
 li {
@@ -47,7 +48,7 @@ h1 {
   
 h2 {
   color: #FFFFFF;
-  font-size: 40px;
+  font-size: 30px;
   font-family: 'Times-New-Roman', serif;
   margin: 10px;
 }
