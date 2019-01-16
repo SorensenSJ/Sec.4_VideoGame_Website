@@ -55,7 +55,7 @@ h2 {
   }
 
 #Video {
-  margin: 10px;
+  margin: 20px;
 }
 
 ul {
@@ -88,4 +88,9 @@ li a:hover {
 
 .Requirements {
   font-size: 20px;
+}
+
+#More Information {
+  margin: 10px;
+  font-size: 10px;
 }

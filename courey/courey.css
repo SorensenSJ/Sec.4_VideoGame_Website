@@ -1,4 +1,4 @@
-*{
+* {
 font-family : "Courier New", "Times New Roman", Times;
 }
 
@@ -51,12 +51,12 @@ color : white;
 text-decoration : none;
 }
 
-a:hover{
+a:hover {
 color : white;
 text-decoration : none;
 }
 
-a:active{
+a:active {
 color : white;
 text-decoration : none;
 }
@@ -86,7 +86,7 @@ li a:hover {
 background-color : #3da360;
 }
 
-.navigation{
+.navigation {
 font-size : 25px;
 margin-bottom : 80px;
 max-height : 50px;
@@ -101,6 +101,10 @@ margin-left: 25%;
 }
 
 .score p{
+margin-left: 25%;
+}
+
+.score p {
 display: inline-block;
 font-size : 40px;
 text-align: center;
