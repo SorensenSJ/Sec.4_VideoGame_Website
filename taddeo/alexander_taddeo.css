@@ -14,13 +14,16 @@ h1{
 }
 header{
   position:fixed;
-  z-index: 99999;
+  z-index: 500;
+background: #FFFFFF url("https://raw.githubusercontent.com/SorensenSJ/Sec.4_VideoGame_Website/master/taddeo/images/starspace.png") no-repeat fixed center;
+footer{
+background: #FFFFFF url("https://raw.githubusercontent.com/SorensenSJ/Sec.4_VideoGame_Website/master/taddeo/images/starspace.png") no-repeat fixed center;
 }
 #back{
   position :fixed;
       top: 0px;
       left: 0px;
-  z-index: 9999;
+  z-index: 999;
 }
 #back:hover{
   background-color: beige;
