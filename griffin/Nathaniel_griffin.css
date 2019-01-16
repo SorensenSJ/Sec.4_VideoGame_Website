@@ -36,7 +36,15 @@ overflow : hidden;
 background-color : #666;
 }
 
-li {
+#Previous {
+float : left;
+}
+
+#Next{
+float : left;
+}
+
+#Home {
 float : left;
 }
 
