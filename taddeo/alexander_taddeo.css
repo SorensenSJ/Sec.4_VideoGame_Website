@@ -60,9 +60,9 @@ header{
   background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/Nu2DDaj5gikp4kjij/fly-through-outer-space-nebula-and-stars-animated-background_scybrqakl_thumbnail-full11.png");
   font-size: 25px;
   color: white;
-  height: 50px;
+  height: 55px;
   text-align: center;
-  text-shadow: 5px 5px #333333;
+  image-shadow: 5px 5px #333333;
 }
 .gg{
  height:45px;
