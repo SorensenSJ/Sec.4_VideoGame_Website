@@ -1,108 +1,90 @@
-* {
-font-family: 'Aclonica', sans-serif;
-}
-
-h2 {
-  font-family: "Arial", Gadget, sans-serif ;
-  letter-spacing: 4px;
-}
-
-p {
-color: #000000;
-  font-size: 18px;
-  font-family: "Helvetica Neue", Gadget, sans-serif ;
-}
-
-a:link {
-color : black;
-text-decoration : none;
-}
-
-a:visited {
-color : black ;
-text-decoration : none;
-}
-
-a:hover{
-color: gray;
-text-decoration : none;
-}
-
-a:active{
-color : white;
-text-decoration : none;
-}
-
-ul {
-list-style-type : none;
-margin : 4px;
-padding : 0;
-background-color : #666;
-}
-
-
-
-li a {
-display : inline;
-color : white;
-text-align : center;
-padding : 30px;
-text-decoration : none;
-}
-
-li a:hover {
-background-color : #3da360;
-}
-
-.navigation{
-font-size: 25px;
-}
-
-
-h1 {
-  font-family: "Arial", Gadget, sans-serif ;
-  letter-spacing: 4px;     
-  text-align: center;
+.farpoint_game_cover {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
 }
 
 .Farpoint {
   color: red;
-  Letter-spacing: 1px;
-  font: Georgia, sans serif;
-}
-  
-  ul {
-list-style-type : none;
-margin : 0;
-padding : 0;
-overflow : hidden;
-background-color : #666;
+  text-align: center;
+  font-style: italic;
+  font-size: 50px;
 }
 
-header li, footer li {
-float : left;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
 }
 
 li a {
-display : block;
-color : white;
-text-align : center;
-padding : 20px;
-text-decoration : none;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 
 li a:hover {
-background-color : #3da360;
-}
-  
-header {
-display : block;
-color : white;
-text-align : center;
-padding : 20px;
-text-decoration : none;
+  background-color: #111;
 }
 
-iframe {
+.active {
+  background-color: #0000FF;
+}
+
+li {
+  border-right: 1px solid #bbb;
+}
+
+li:last-child {
+  border-right: none;
+}
+
+nav {
+  position: -webkit-sticky; 
+  position: sticky;
+  top: 0;
+}
+
+.video {
+  display: block;
+  margin: 0 auto;
+}
+
+p {
+  color: #000000;
+  text-align: left;
+  text-indent: 50px;
+  letter-spacing: 1.2px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  word-spacing: 2px;
+}
+
+.image_gun {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  height: 600px;
+}
+
+h3 {
   text-align: center;
+  font-size: 35px;
+  color: #0000FF;
+}
+
+ol {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;
 }
