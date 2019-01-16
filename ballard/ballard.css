@@ -106,5 +106,6 @@ p {
   border: 5px solid grey;
   background-color: rgba(25,25,25,1);
   margin: 10px;
+  margin-left: 300px;
   padding: 10px;
   }
