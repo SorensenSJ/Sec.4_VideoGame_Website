@@ -60,7 +60,6 @@ li a {
   text-decoration: none;
   vertical-align: text-bottom;
   font-size: 20px;
-
 }  
 
 .background {
@@ -102,12 +101,11 @@ li a {
 }
 
 .one-text {
-  text-align: left;
-  
+  text-align: left; 
 }
 
 .one-image {
-  margin-left: 400px;
+  margin-left: 20px;
 
 }
 
@@ -120,8 +118,7 @@ li a {
 }
 
 .courtbattles-image {
-  margin-left: 400px;
-
+  margin-left: 20px;
 }
 
 .league {
@@ -134,7 +131,7 @@ li a {
 }
 
 .league-image {
-  margin-left: 400px;
+  margin-left: 20px;
 
 }
 
@@ -149,7 +146,7 @@ li a {
 }
 
 .streets-image {
-  margin-left: 400px;
+  margin-left: 20px;
  
 }
 
