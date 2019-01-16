@@ -103,10 +103,8 @@ li a {
 }
 
 .one-image {
-  margin-right: 20px;
+  margin-left: 420px;
   float: right;
-  height: auto;
-  width: 400px;
 }
 
 .courtbattles {
@@ -118,10 +116,8 @@ li a {
 }
 
 .courtbattles-image {
-  margin-right: 20px;
+  margin-left: 420px;
   float: right;
-  height: auto;
-  width: 400px;
 }
 
 .league {
@@ -134,10 +130,8 @@ li a {
 }
 
 .league-image {
-  margin-right: 20px;
+  margin-left: 420px;
   float: right;
-  height: auto;
-  width: 400px;
 }
 
 .streets {
@@ -151,14 +145,13 @@ li a {
 }
 
 .streets-image {
-  margin-right: 20px;
+  margin-left: 420px;
   float: right;
-  height: auto;
-  width: 400px;
 }
 
 table {
   border-collapse: collapse;
+  width: 50%;
 }
 
 table, th, td  {
