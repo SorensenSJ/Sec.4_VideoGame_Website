@@ -78,6 +78,9 @@ p{
 .gendes{
   background: #FFFFFF url("http://www.bruna.cat/imgdownload/full/70/709757/latest-guns-wallpapers.jpg") repeat;
    color: white;
+  border: 100px;
+  border-style: outset;
+  border-color: beige;
 }
 .awk{
   margin-right:500px;
