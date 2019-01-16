@@ -15,7 +15,7 @@ h1{
 header{
   position:fixed;
   z-index: 500;
-background: #FFFFFF url("https://raw.githubusercontent.com/SorensenSJ/Sec.4_VideoGame_Website/master/taddeo/images/starspace.png") no-repeat fixed center;
+}
 footer{
 background: #FFFFFF url("https://raw.githubusercontent.com/SorensenSJ/Sec.4_VideoGame_Website/master/taddeo/images/starspace.png") no-repeat fixed center;
 }
