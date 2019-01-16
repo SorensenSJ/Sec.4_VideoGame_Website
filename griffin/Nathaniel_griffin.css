@@ -54,7 +54,7 @@ float : left;
 li a {
 display : block;
 color : black;
-text-align : center;
+text-align : center !important;
 padding : 30px;
 text-decoration : none;
 }
