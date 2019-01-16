@@ -33,3 +33,12 @@ body {
   font-size: 25px;
   font-family: "Arial", sans-serif;
 }
+
+div.NavigationalBar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
