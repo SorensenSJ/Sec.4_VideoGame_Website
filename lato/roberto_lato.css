@@ -18,12 +18,7 @@ h2 {
   margin-right: auto;
 }
 
-.vid1 {
-  display: block;
-  margin: 0 auto;
-  position: relative;
-}
-
+.vid1,
 .vid2 {
   display: block;
   margin: 0 auto;
@@ -41,41 +36,16 @@ h7 {
   color: white;
 }
 
-.body1 {
-  font-size: 17px;
-  font-family: Verdana, Serif;
-  color: white;
-  display: inline-block;
-}
-
-.body2 {
-  font-size: 17px;
-  font-family: Verdana, Serif;
-  color: white;
-  display: inline-block;
-}
-
-.body3 {
-  font-size: 17px;
-  font-family: Verdana, Serif;
-  color: white;
-  display: inline-block;
-}
-
-.body4 {
-  font-size: 17px;
-  font-family: Verdana, Serif;
-  color: white;
-  display: inline-block;
-}
-
+.body1,
+.body2,
+.body3,
+.body4,
 .body5 {
   font-size: 17px;
   font-family: Verdana, Serif;
   color: white;
   display: inline-block;
 }
-
 
 body {
   background-image: url("https://i.ytimg.com/vi/T40NSkd7Olc/maxresdefault.jpg");
