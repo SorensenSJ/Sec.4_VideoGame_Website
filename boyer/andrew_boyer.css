@@ -1,7 +1,7 @@
 body {
-  background-image: url ("https://github.com/SorensenSJ/Sec.4_VideoGame_Website/blob/master/boyer/baby%20peng.jpg?raw=true/images/baby peng.jpg");
+  background-image: url("../boyer/images/baby peng.jpg");
   background-repeat: repeat-y;
-  background-size: cover; 
+  background-size: contain; 
 }
  
 p {
