@@ -21,12 +21,13 @@ h2 {
 .vid1 {
   display: block;
   margin: 0 auto;
-  padding-left: 100px; 
+  position: relative;
 }
 
 .vid2 {
   display: block;
   margin: 0 auto;
+  position: relative;
 }
 
 h3,
