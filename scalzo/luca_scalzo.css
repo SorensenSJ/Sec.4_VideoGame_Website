@@ -7,16 +7,25 @@
 #Phara {
   height: 500px;
   width: 900px;
+  padding: 5px;
+  border: 3px solid coral; 
+  margin: 0 auto;
 }
 
 #Soldier {
   height: 500px;
   width: 900px;
+  padding: 5px;
+  border: 3px solid coral;
+  margin: 0 auto;
 }
 
 #Gallery {
   height: 600px;
   width: 1000px;
+  padding: 5px;
+  border: 3px solid coral;
+  margin: 0 auto;
 }
 
 body {
