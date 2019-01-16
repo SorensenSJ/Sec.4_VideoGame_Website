@@ -38,3 +38,6 @@ div.NavigationalBar ul {
     colour: orange;
 }
 
+#Name #Logo {
+  vertical-align: top;
+}
