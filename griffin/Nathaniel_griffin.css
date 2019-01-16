@@ -59,6 +59,10 @@ text-decoration : none;
 li a:hover {
 background-color : #FFD700;
 }
+  
+li {
+  text-align: left !important;
+}
 
 .menu_bar{
 font-size: 25px;
