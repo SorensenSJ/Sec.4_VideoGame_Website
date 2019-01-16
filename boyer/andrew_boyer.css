@@ -6,7 +6,7 @@ body {
  
 p {
   color: black;
-  font-family: Times New Roman, serif;
+  font-family: 'Ubuntu', serif;
   font-size: 20px;
   text-align: center;
   letter-spacing: 3px;
@@ -22,7 +22,7 @@ p {
 
 li {
   color: black;
-  font-family: Times New Roman, serif;
+  font-family: 'Ubuntu', serif;
   font-size: 20px;
   text-align: center;
   letter-spacing: 3px;
