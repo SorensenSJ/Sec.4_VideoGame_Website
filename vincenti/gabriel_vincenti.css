@@ -93,3 +93,8 @@ div {
 h6 {
   color: #FFF;
   font-size:60px;
+}
+
+.comments {
+  width: 300px;
+}
